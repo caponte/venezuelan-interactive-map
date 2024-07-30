@@ -1,0 +1,20 @@
+.map-container{
+    display: flex;
+    justify-content: center;
+}
+
+.map-container .state {
+    fill: #c4c4c4;
+    stroke: #fff;
+    stroke-miterlimit: 10;
+    stroke-width: 1.06px;
+    cursor: pointer;
+  }
+
+  .map-container .state:hover {
+    fill: aqua;
+    transition: transition: fill 0.4s ease-in-out;
+    pointer: ;
+  }
+
+
