@@ -4,7 +4,7 @@
 }
 
 .map-container .state {
-    fill: #c4c4c4;
+    fill: #c5c5c5;
     stroke: #fff;
     stroke-miterlimit: 10;
     stroke-width: 1.06px;
@@ -13,7 +13,7 @@
 
   .map-container .state:hover {
     fill: #FFCC00;
-    transition: transition: fill 0.4s ease-in-out;
+    transition: fill 0.4s ease-in-out;
   }
 
 

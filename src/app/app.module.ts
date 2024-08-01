@@ -6,11 +6,13 @@ import { AppComponent } from './app.component';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 import { StateModalComponent } from './state-modal/state-modal.component';
 import { HttpClientModule } from '@angular/common/http';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    StateModalComponent
+    StateModalComponent,
+    HeaderComponent
   ],
   imports: [
     HttpClientModule,
