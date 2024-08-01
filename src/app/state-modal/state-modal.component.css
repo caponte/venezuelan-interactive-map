@@ -1,0 +1,82 @@
+.state-dialog {
+  display: flex;
+  flex-direction: column;
+  padding: 27px 20px 16px;
+  gap: 8px;
+  background-color: black;
+  color: white;
+  min-width: 319px;
+  min-height: 294px;
+}
+
+.state-dialog h2 {
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: rgb(255, 255, 255, 20%);
+  margin: 0;
+}
+
+.state-dialog .header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.candidate-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.docs-totals {
+  text-align: right;
+  font-weight: lighter;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: "Nunito", sans-serif;
+}
+
+.docs-totals .docs-totals--numbers {
+  font-weight: 400;
+}
+
+.candidate-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.candidate-wrapper .canditate-name {
+  max-width: 106px;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 14px;
+  font-family: "Nunito", sans-serif;
+  margin-left: 8px;
+}
+
+.candidate-wrapper .circle {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: 3C3C3C;
+  margin-left: 8px;
+}
+
+.candidate-wrapper .candidate-info {
+  display: flex;
+  align-items: center;
+}
+
+.candidate-wrapper .candidate-data {
+  display: flex;
+  align-items: center;
+  text-align: right;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 22px;
+}

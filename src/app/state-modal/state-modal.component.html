@@ -1,0 +1,23 @@
+<div class="state-dialog">
+    <div class="header" mat-dialog-title>
+        <h2>{{ data.name }}</h2>
+        <div class="docs-totals">
+            <div class="docs-totals--label">Actas digitalizadas:</div>
+            <div class="docs-totals--numbers">{{data.totals | number: '1.0-0' }} ({{data.percentage}}%)</div>
+        </div>
+    </div>
+    <div mat-dialog-content>
+        <div *ngFor="let result of data.results">
+        <div class="candidate-wrapper">
+            <div class="candidate-info">
+                <img [src]="getAvatar(result.avatar)" alt="">
+                <div class="canditate-name">{{result.candidate}}</div>
+            </div>
+            <div class="candidate-data">
+                <div class="candidate-percentage">{{result.percentage}}%</div>
+                <div class="circle" [style.backgroundColor]="result.color"></div>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>

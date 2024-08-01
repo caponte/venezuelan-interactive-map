@@ -1,0 +1,650 @@
+[
+    {
+        "name": "DTTO CAPITAL",
+        "totals": 1547,
+        "percentage": 68.45,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 468200,
+                "percentage": 65,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 232653,
+                "percentage": 32,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 24277,
+                "percentage": 3,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "AMAZONAS",
+        "totals": 108,
+        "percentage": 54,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 27220,
+                "percentage": 60,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 17375,
+                "percentage": 38,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 1146,
+                "percentage": 3,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "ANZOÁTEGUI",
+        "totals": 1358,
+        "percentage": 85.99,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 420076,
+                "percentage": 67,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 194615,
+                "percentage": 31,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 16282,
+                "percentage": 3,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "APURE",
+        "totals": 534,
+        "percentage": 88.41,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 134304,
+                "percentage": 63,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 75005,
+                "percentage": 35,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 3901,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "ARAGUA",
+        "totals": 1509,
+        "percentage": 93.15,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 487938,
+                "percentage": 68,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 212296,
+                "percentage": 29,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 22554,
+                "percentage": 3,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "BARINAS",
+        "totals": 947,
+        "percentage": 92.48,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 279157,
+                "percentage": 75,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 88987,
+                "percentage": 24,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 626,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "BOLÍVAR",
+        "totals": 1134,
+        "percentage": 72.46,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 338744,
+                "percentage": 72,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 122314,
+                "percentage": 26,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 11664,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "CARABOBO",
+        "totals": 1366,
+        "percentage": 66.34,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 465194,
+                "percentage": 71,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 172820,
+                "percentage": 26,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 18249,
+                "percentage": 3,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "COJEDES",
+        "totals": 415,
+        "percentage": 92.22,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 108871,
+                "percentage": 63,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 60149,
+                "percentage": 32,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 4112,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "DELTA AMACURO",
+        "totals": 174,
+        "percentage": 69.88,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 29541,
+                "percentage": 53,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 24534,
+                "percentage": 44,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 1331,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "FALCÓN",
+        "totals": 1062,
+        "percentage": 89.39,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 294993,
+                "percentage": 71,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 112610,
+                "percentage": 27,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 9228,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "GUÁRICO",
+        "totals": 758,
+        "percentage": 88.55,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 221156,
+                "percentage": 64,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 116811,
+                "percentage": 34,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 7265,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "LA GUAIRA",
+        "totals": 327,
+        "percentage": 78.61,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 97817,
+                "percentage": 61,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 57713,
+                "percentage": 36,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 4747,
+                "percentage": 3,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "LARA",
+        "totals": 1493,
+        "percentage": 74.02,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 459771,
+                "percentage": 69,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 195436,
+                "percentage": 29,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 15924,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "MÉRIDA",
+        "totals": 909,
+        "percentage": 95.38,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 303664,
+                "percentage": 77,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 84410,
+                "percentage": 21,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 6533,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "MIRANDA",
+        "totals": 2226,
+        "percentage": 75.13,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 649628,
+                "percentage": 66,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 311292,
+                "percentage": 31,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 29391,
+                "percentage": 3,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "MONAGAS",
+        "totals": 767,
+        "percentage": 76.93,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 201689,
+                "percentage": 60,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 125364,
+                "percentage": 38,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 6861,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "PORTUGUESA",
+        "totals": 984,
+        "percentage": 90.94,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 281236,
+                "percentage": 64,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 147641,
+                "percentage": 34,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 9868,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "SUCRE",
+        "totals": 1039,
+        "percentage": 93.86,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 219377,
+                "percentage": 50,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 208962,
+                "percentage": 48,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 9857,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "TÁCHIRA",
+        "totals": 1231,
+        "percentage": 96.78,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 399267,
+                "percentage": 82,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 79445,
+                "percentage": 16,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 8547,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "TRUJILLO",
+        "totals": 910,
+        "percentage": 92.95,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 222459,
+                "percentage": 64,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 119976,
+                "percentage": 34,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 5367,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "YARACUY",
+        "totals": 691,
+        "percentage": 91.04,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 180334,
+                "percentage": 61,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 109678,
+                "percentage": 37,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 7241,
+                "percentage": 2,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "ZULIA",
+        "totals": 2600,
+        "percentage": 78.50,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 730852,
+                "percentage": 69,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 309732,
+                "percentage": 29,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 15071,
+                "percentage": 1,
+                "color": "#3C3C3C"
+            }
+        ]
+    },
+    {
+        "name": "NUEVA ESPARTA",
+        "totals": 507,
+        "percentage": 94.06,
+        "results" : [
+            {
+                "candidate": "Edmundo González",
+                "votes": 151664,
+                "percentage": 66,
+                "avatar": "winner.png",
+                "color": "#4E71FF"
+            },
+            {
+                "candidate": "Nicolás Maduro",
+                "votes": 70606,
+                "percentage": 31,
+                "avatar": "loser.png",
+                "color": "#FF5E5E"
+            },
+            {
+                "candidate": "Others",
+                "votes": 5804,
+                "percentage": 3,
+                "color": "#3C3C3C"
+            }
+        ]
+    }
+]

@@ -12,9 +12,8 @@
   }
 
   .map-container .state:hover {
-    fill: aqua;
+    fill: #FFCC00;
     transition: transition: fill 0.4s ease-in-out;
-    pointer: ;
   }
 
 
