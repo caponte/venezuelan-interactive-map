@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background: #E4E7EB;}
+.state-modal-container .mat-mdc-dialog-surface.mdc-dialog__surface {
+    border-radius: 20px;
+}
+
