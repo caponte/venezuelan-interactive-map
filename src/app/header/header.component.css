@@ -36,6 +36,10 @@
     margin-bottom: 0;
 }
 
+.header-wrapper .header-title{
+    text-align: center;
+}
+
 .header-wrapper .header-title p{
     font-family: 'Bebas Neue';
     font-style: normal;
@@ -70,6 +74,7 @@
 .header-wrapper .header-bottom {
     background: white;
     margin-bottom: 16px;
+    padding: 0 16px;
 }
 
 .header-wrapper .header-bottom p.header-description{
@@ -90,4 +95,10 @@
     line-height: 19px;
     text-align: center;
     color: #000000;
+}
+
+@media (max-width: 575.98px) {
+    .header-wrapper .header-info{
+        display: none;
+    }
 }
