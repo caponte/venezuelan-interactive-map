@@ -1,0 +1,29 @@
+[{
+  "name": "Nacional",
+  "totals": "24532",
+  "percentage": 81.7,
+  "results": [
+    {
+      "candidate": "Edmundo González",
+      "votes": 7156462,
+      "avatar": "winner.png",
+      "color": "#4E71FF",
+      "percentage": "67%"
+    },
+    {
+      "candidate": "Nicolás Maduro",
+      "votes": 3241461,
+      "avatar": "loser.png",
+      "color": "#FF5E5E",
+      "percentage": "30%"
+    },
+    {
+      "candidate": "Otros",
+      "votes": 261205,
+      "avatar": "",
+      "color": "#3C3C3C",
+      "percentage": "2%"
+    }
+  ],
+  "dependency": []
+}]

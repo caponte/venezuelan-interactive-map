@@ -7,17 +7,20 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
 import { StateModalComponent } from './state-modal/state-modal.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HeaderComponent } from './header/header.component';
-
+import { BottomComponentComponent } from './bottom-component/bottom-component.component';
+import { MatProgressBarModule } from '@angular/material/progress-bar';
 @NgModule({
   declarations: [
     AppComponent,
     StateModalComponent,
-    HeaderComponent
+    HeaderComponent,
+    BottomComponentComponent
   ],
   imports: [
     HttpClientModule,
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MatProgressBarModule
   ],
   providers: [
     provideAnimationsAsync()
