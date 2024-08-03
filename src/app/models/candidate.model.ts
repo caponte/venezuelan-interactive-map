@@ -1,7 +1,7 @@
 export interface CandidateResult {
     candidate: string,
     votes: number,
-    percentage: number,
+    percentage: string,
     avatar: string,
     color: string
 }
