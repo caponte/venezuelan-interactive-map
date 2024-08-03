@@ -1,0 +1,161 @@
+.bottom-component {
+  position: fixed;
+  bottom: 50px;
+  width: 800px;
+  transition: transform 0.3s ease-out; /* Suaviza la transición de expansión */
+  left: calc(50% - 400px);
+  background: white;
+  background: #ffffff;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 36px;
+}
+
+.bottom-component.collapsed {
+  transform: translateY(
+    calc(100% - 50px)
+  ); /* Mueve el componente hacia arriba cuando está colapsado */
+}
+
+.content-wrapper {
+  width: 100%;
+  max-height: calc(100vh - 50px);
+}
+
+.content-wrapper .title {
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  text-align: center;
+
+  color: #1d2150;
+}
+
+.content-wrapper .title .info {
+  display: none;
+}
+
+.bottom-component .header {
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+
+.bottom-component .header .data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+}
+.bottom-component .header .data .info {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  text-align: right;
+}
+
+.bottom-component .header .data button {
+  background: #e4e4e4;
+  border-radius: 8px;
+  border: none;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: "Nunito";
+  font-weight: 800;
+  color: #1d2150;
+}
+
+.bottom-component.collapsed .header .data button {
+  color: white;
+  background: #1d2150;
+}
+
+.bottom-component .results {
+  padding-top: 24px;
+}
+
+.bottom-component .candidate-wrapper {
+  margin-bottom: 16px;
+}
+
+.candidate-info .canditate-name {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  font-family: "Nunito";
+  font-weight: 800;
+  color: #1d2150;
+}
+
+.candidate-info .progres-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.candidate-info .progres-container img {
+  width: 55px;
+  height: 55px;
+}
+
+.candidate-info .progres-bar {
+  width: 542px;
+  height: 40px;
+  background: #e4e7eb;
+  border-radius: 10px;
+}
+
+.candidate-info .progres-bar .fill {
+  float: right; /* Align the fill to the right */
+  height: 100%;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 40px;
+  /* identical to box height */
+  text-align: right;
+  color: white;
+  padding-right: 8px;
+}
+
+@media (max-width: 575.98px) {
+  .bottom-component {
+    max-width: 100%;
+    width: 90%;
+    left: 0;
+    padding: 8px 16px;
+  }
+
+  .bottom-component .header .data .info {
+    display: none;
+  }
+
+  .candidate-info .progres-bar {
+    width: 80%;
+  }
+
+  .content-wrapper .title .info {
+    display: block;
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 8px;
+    /* or 143% */
+  }
+}

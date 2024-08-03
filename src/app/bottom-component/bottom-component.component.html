@@ -1,0 +1,36 @@
+<div [ngClass]="{'collapsed': !isExpanded, 'expanded': isExpanded}" class="bottom-component content">
+    <div class="content-wrapper">
+      <div class="header">
+        <div class="title">
+          Resultados Nacionales
+          <div class="info">
+            Actas Digitalizadas: <br>{{ this.results[0].totals  | number: '1.0-0'}} ({{results[0].percentage}}%)
+          </div>  
+        </div>
+        <div class="data">
+          <div class="info">
+            Actas Digitalizadas: <br>{{ this.results[0].totals  | number: '1.0-0' }} ({{results[0].percentage}}%)
+          </div>          
+          <button (click)="toggleExpand()">{{getButtonLabel() }} <img [src]="getIcon()"/></button>         
+        </div>
+      </div>
+      <div class="results" *ngIf="isExpanded">
+        <div *ngFor="let result of results[0].results">
+          <div class="candidate-wrapper">
+              <div class="candidate-info">
+                  <div class="canditate-name">
+                    <span>{{result.candidate}}</span>
+                    <span>{{result.votes  | number: '1.0-0'}} votos</span>
+                  </div>
+                  <div class="progres-container">
+                    <img [src]="getAvatar(result.avatar)" alt="">
+                    <div class="progres-bar">
+                      <div class="fill" [style.width]="result.percentage" [style.backgroundColor]="result.color">{{result.percentage}}</div>
+                    </div>
+                  </div>
+              </div>
+          </div>
+          </div>
+      </div>
+    </div>
+</div>

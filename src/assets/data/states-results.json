@@ -1,650 +1,1048 @@
 [
     {
-        "name": "DTTO CAPITAL",
-        "totals": 1547,
-        "percentage": 68.45,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 468200,
-                "percentage": 65,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 232653,
-                "percentage": 32,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 24277,
-                "percentage": 3,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "DTTO. CAPITAL",
+      "totals": "1534",
+      "percentage": 67.88,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 462138,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "64%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 230649,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "32%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 24932,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. BLVNO LIBERTADOR"
+      ]
     },
     {
-        "name": "AMAZONAS",
-        "totals": 108,
-        "percentage": 54,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 27220,
-                "percentage": 60,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 17375,
-                "percentage": 38,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 1146,
-                "percentage": 3,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "ANZOATEGUI",
+      "totals": "1338",
+      "percentage": 85.99,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 420075,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "67%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 194615,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "31%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 16955,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. ANACO",
+        "MP. ARAGUA",
+        "MP. BOLIVAR",
+        "MP. BRUZUAL",
+        "MP. CAJIGAL",
+        "MP. CARVAJAL",
+        "MP. FREITES",
+        "MP. GUANIPA",
+        "MP. GUANTA",
+        "MP. INDEPENDENCIA",
+        "MP. L/DIEGO BAUTISTA",
+        "MP. LIBERTAD",
+        "MP. MC GREGOR",
+        "MP. MIRANDA",
+        "MP. MONAGAS",
+        "MP. PEÑALVER",
+        "MP. PIRITU",
+        "MP. SANTA ANA",
+        "MP. SIMON RODRIGUEZ",
+        "MP. SOTILLO",
+        "MP.S JUAN CAPISTRANO"
+      ]
     },
     {
-        "name": "ANZOÁTEGUI",
-        "totals": 1358,
-        "percentage": 85.99,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 420076,
-                "percentage": 67,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 194615,
-                "percentage": 31,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 16282,
-                "percentage": 3,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "APURE",
+      "totals": "533",
+      "percentage": 88.25,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 134203,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "63%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 74842,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "35%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 4062,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ACHAGUAS",
+        "MP. BIRUACA",
+        "MP. MUÑOZ",
+        "MP. PAEZ",
+        "MP. PEDRO CAMEJO",
+        "MP. ROMULO GALLEGOS",
+        "MP. SAN FERNANDO"
+      ]
     },
     {
-        "name": "APURE",
-        "totals": 534,
-        "percentage": 88.41,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 134304,
-                "percentage": 63,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 75005,
-                "percentage": 35,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 3901,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "ARAGUA",
+      "totals": "1509",
+      "percentage": 93.15,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 487938,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "67%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 212285,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "29%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 23376,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. BOLIVAR",
+        "MP. CAMATAGUA",
+        "MP. GIRARDOT",
+        "MP. JOSE ANGEL LAMAS",
+        "MP. JOSE FELIX RIBAS",
+        "MP. JOSE R REVENGA",
+        "MP. LIBERTADOR",
+        "MP. MARIO B IRAGORRY",
+        "MP. SAN CASIMIRO",
+        "MP. SAN SEBASTIAN",
+        "MP. SANTIAGO MARIÑO",
+        "MP. SANTOS MICHELENA",
+        "MP. SUCRE",
+        "MP. TOVAR",
+        "MP. URDANETA",
+        "MP. ZAMORA",
+        "MP.FRANCISCO LINARES",
+        "MP.OCUMARE D L COSTA"
+      ]
     },
     {
-        "name": "ARAGUA",
-        "totals": 1509,
-        "percentage": 93.15,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 487938,
-                "percentage": 68,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 212296,
-                "percentage": 29,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 22554,
-                "percentage": 3,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "BARINAS",
+      "totals": "945",
+      "percentage": 92.29,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 278692,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "75%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 88668,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "24%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 6463,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. A JOSE DE SUCRE",
+        "MP. ALBERTO ARVELO T",
+        "MP. ANDRES E. BLANCO",
+        "MP. ARISMENDI",
+        "MP. BARINAS",
+        "MP. BOLIVAR",
+        "MP. CRUZ PAREDES",
+        "MP. EZEQUIEL ZAMORA",
+        "MP. OBISPOS",
+        "MP. PEDRAZA",
+        "MP. ROJAS",
+        "MP. SOSA"
+      ]
     },
     {
-        "name": "BARINAS",
-        "totals": 947,
-        "percentage": 92.48,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 279157,
-                "percentage": 75,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 88987,
-                "percentage": 24,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 626,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "BOLIVAR",
+      "totals": "1129",
+      "percentage": 72.14,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 337750,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "72%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 121741,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "26%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 12047,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. ANGOSTURA DEL OR",
+        "MP. BLVNO DE ANGOSTU",
+        "MP. CARONI",
+        "MP. CEDEÑO",
+        "MP. EL CALLAO",
+        "MP. GRAN SABANA",
+        "MP. PIAR",
+        "MP. ROSCIO",
+        "MP. SIFONTES",
+        "MP. SUCRE",
+        "MP.PADRE PEDRO CHIEN"
+      ]
     },
     {
-        "name": "BOLÍVAR",
-        "totals": 1134,
-        "percentage": 72.46,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 338744,
-                "percentage": 72,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 122314,
-                "percentage": 26,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 11664,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "CARABOBO",
+      "totals": "1362",
+      "percentage": 66.15,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 459753,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "71%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 172285,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "26%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 18888,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. BEJUMA",
+        "MP. CARLOS ARVELO",
+        "MP. DIEGO IBARRA",
+        "MP. GUACARA",
+        "MP. JUAN JOSE MORA",
+        "MP. LIBERTADOR",
+        "MP. LOS GUAYOS",
+        "MP. MIRANDA",
+        "MP. MONTALBAN",
+        "MP. NAGUANAGUA",
+        "MP. PUERTO CABELLO",
+        "MP. SAN DIEGO",
+        "MP. SAN JOAQUIN",
+        "MP. VALENCIA"
+      ]
     },
     {
-        "name": "CARABOBO",
-        "totals": 1366,
-        "percentage": 66.34,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 465194,
-                "percentage": 71,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 172820,
-                "percentage": 26,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 18249,
-                "percentage": 3,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "COJEDES",
+      "totals": "416",
+      "percentage": 92.44,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 109083,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "63%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 60242,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "35%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 4285,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ANZOATEGUI",
+        "MP. AUTONOMO TINAQUI",
+        "MP. EZEQUIEL ZAMORA",
+        "MP. GIRARDOT",
+        "MP. LIMA BLANCO",
+        "MP. PAO S J BAUTISTA",
+        "MP. RICAURTE",
+        "MP. ROMULO GALLEGOS",
+        "MP. TINACO"
+      ]
     },
     {
-        "name": "COJEDES",
-        "totals": 415,
-        "percentage": 92.22,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 108871,
-                "percentage": 63,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 60149,
-                "percentage": 32,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 4112,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "FALCON",
+      "totals": "1062",
+      "percentage": 89.39,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 294981,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "71%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 111637,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "27%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 9661,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ACOSTA",
+        "MP. BOLIVAR",
+        "MP. BUCHIVACOA",
+        "MP. CACIQUE MANAURE",
+        "MP. CARIRUBANA",
+        "MP. COLINA",
+        "MP. DABAJURO",
+        "MP. FALCON",
+        "MP. FEDERACION",
+        "MP. JACURA",
+        "MP. LOS TAQUES",
+        "MP. MAUROA",
+        "MP. MIRANDA",
+        "MP. MONS. ITURRIZA",
+        "MP. PALMASOLA",
+        "MP. PETIT",
+        "MP. PIRITU",
+        "MP. SAN FRANCISCO",
+        "MP. SILVA",
+        "MP. SUCRE",
+        "MP. TOCOPERO",
+        "MP. UNION",
+        "MP. URUMACO",
+        "MP. ZAMORA"
+      ]
     },
     {
-        "name": "DELTA AMACURO",
-        "totals": 174,
-        "percentage": 69.88,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 29541,
-                "percentage": 53,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 24534,
-                "percentage": 44,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 1331,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "GUARICO",
+      "totals": "757",
+      "percentage": 88.43,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 220995,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "64%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 116636,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "34%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 7556,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. CAMAGUAN",
+        "MP. CHAGUARAMAS",
+        "MP. EL SOCORRO",
+        "MP. INFANTE",
+        "MP. JUAN GERMAN ROSC",
+        "MP. JUAN JOSE RONDON",
+        "MP. MELLADO",
+        "MP. MIRANDA",
+        "MP. MONAGAS",
+        "MP. ORTIZ",
+        "MP. RIBAS",
+        "MP. S MARIA DE IPIRE",
+        "MP. ZARAZA",
+        "MP.S JOSE DE GUARIBE",
+        "MP.SAN GERONIMO DE G"
+      ]
     },
     {
-        "name": "FALCÓN",
-        "totals": 1062,
-        "percentage": 89.39,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 294993,
-                "percentage": 71,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 112610,
-                "percentage": 27,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 9228,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "LARA",
+      "totals": "1487",
+      "percentage": 73.72,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 458080,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "68%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 194738,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "29%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 16657,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ANDRES E BLANCO",
+        "MP. CRESPO",
+        "MP. IRIBARREN",
+        "MP. JIMENEZ",
+        "MP. MORAN",
+        "MP. PALAVECINO",
+        "MP. TORRES",
+        "MP. URDANETA"
+      ]
     },
     {
-        "name": "GUÁRICO",
-        "totals": 758,
-        "percentage": 88.55,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 221156,
-                "percentage": 64,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 116811,
-                "percentage": 34,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 7265,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "MERIDA",
+      "totals": "910",
+      "percentage": 95.49,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 303767,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "77%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 84482,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "21%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 6778,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ALBERTO ADRIANI",
+        "MP. ANDRES BELLO",
+        "MP. ANTONIO PINTO S.",
+        "MP. ARICAGUA",
+        "MP. ARZOBISPO CHACON",
+        "MP. CAMPO ELIAS",
+        "MP. CARACCIOLO PARRA",
+        "MP. GUARAQUE",
+        "MP. JUSTO BRICEÑO",
+        "MP. LIBERTADOR",
+        "MP. MIRANDA",
+        "MP. PADRE NOGUERA",
+        "MP. PUEBLO LLANO",
+        "MP. RANGEL",
+        "MP. RIVAS DAVILA",
+        "MP. SANTOS MARQUINA",
+        "MP. SUCRE",
+        "MP. TOVAR",
+        "MP. TULIO F CORDERO",
+        "MP. ZEA",
+        "MP.CARDENAL QUINTERO",
+        "MP.JULIO CESAR SALAS",
+        "MP.OB. RAMOS DE LORA"
+      ]
     },
     {
-        "name": "LA GUAIRA",
-        "totals": 327,
-        "percentage": 78.61,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 97817,
-                "percentage": 61,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 57713,
-                "percentage": 36,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 4747,
-                "percentage": 3,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "MIRANDA",
+      "totals": "2223",
+      "percentage": 75.03,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 649403,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "66%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 309947,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "31%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 30401,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. ACEVEDO",
+        "MP. ANDRES BELLO",
+        "MP. BARUTA",
+        "MP. BRION",
+        "MP. BUROZ",
+        "MP. CARRIZAL",
+        "MP. CHACAO",
+        "MP. CRISTOBAL ROJAS",
+        "MP. EL HATILLO",
+        "MP. GUAICAIPURO",
+        "MP. INDEPENDENCIA",
+        "MP. LANDER",
+        "MP. LOS SALIAS",
+        "MP. PAEZ",
+        "MP. PAZ CASTILLO",
+        "MP. PEDRO GUAL",
+        "MP. PLAZA",
+        "MP. SIMON BOLIVAR",
+        "MP. SUCRE",
+        "MP. URDANETA",
+        "MP. ZAMORA"
+      ]
     },
     {
-        "name": "LARA",
-        "totals": 1493,
-        "percentage": 74.02,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 459771,
-                "percentage": 69,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 195436,
-                "percentage": 29,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 15924,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "MONAGAS",
+      "totals": "767",
+      "percentage": 76.93,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 201689,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "60%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 125364,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "38%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 7095,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ACOSTA",
+        "MP. AGUASAY",
+        "MP. BOLIVAR",
+        "MP. CARIPE",
+        "MP. CEDEÑO",
+        "MP. EZEQUIEL ZAMORA",
+        "MP. LIBERTADOR",
+        "MP. MATURIN",
+        "MP. PIAR",
+        "MP. PUNCERES",
+        "MP. SANTA BARBARA",
+        "MP. SOTILLO",
+        "MP. URACOA"
+      ]
     },
     {
-        "name": "MÉRIDA",
-        "totals": 909,
-        "percentage": 95.38,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 303664,
-                "percentage": 77,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 84410,
-                "percentage": 21,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 6533,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "NUEVA ESPARTA",
+      "totals": "507",
+      "percentage": 94.06,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 151664,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "66%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 70605,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "31%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 6014,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. ARISMENDI",
+        "MP. DIAZ",
+        "MP. GARCIA",
+        "MP. GOMEZ",
+        "MP. MANEIRO",
+        "MP. MARCANO",
+        "MP. MARIÑO",
+        "MP. TUBORES",
+        "MP.ANTOLIN DEL CAMPO",
+        "MP.PENIN. DE MACANAO",
+        "MP.VILLALBA(I.COCHE)"
+      ]
     },
     {
-        "name": "MIRANDA",
-        "totals": 2226,
-        "percentage": 75.13,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 649628,
-                "percentage": 66,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 311292,
-                "percentage": 31,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 29391,
-                "percentage": 3,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "PORTUGUESA",
+      "totals": "984",
+      "percentage": 90.94,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 281482,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "64%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 147673,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "34%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 10293,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. AGUA BLANCA",
+        "MP. ARAURE",
+        "MP. ESTELLER",
+        "MP. GUANARE",
+        "MP. GUANARITO",
+        "MP. M.JOSE V DE UNDA",
+        "MP. OSPINO",
+        "MP. PAEZ",
+        "MP. PAPELON",
+        "MP. SANTA ROSALIA",
+        "MP. SUCRE",
+        "MP. TUREN",
+        "MP.GENARO BOCONOITO",
+        "MP.S RAFAEL DE ONOTO"
+      ]
     },
     {
-        "name": "MONAGAS",
-        "totals": 767,
-        "percentage": 76.93,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 201689,
-                "percentage": 60,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 125364,
-                "percentage": 38,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 6861,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "SUCRE",
+      "totals": "1039",
+      "percentage": 93.86,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 219377,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "50%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 208962,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "48%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 10355,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ANDRES E BLANCO",
+        "MP. ANDRES MATA",
+        "MP. ARISMENDI",
+        "MP. BENITEZ",
+        "MP. BERMUDEZ",
+        "MP. BOLIVAR",
+        "MP. CAJIGAL",
+        "MP. CRUZ S ACOSTA",
+        "MP. LIBERTADOR",
+        "MP. MARIÑO",
+        "MP. MEJIA",
+        "MP. MONTES",
+        "MP. RIBERO",
+        "MP. SUCRE",
+        "MP. VALDEZ"
+      ]
     },
     {
-        "name": "PORTUGUESA",
-        "totals": 984,
-        "percentage": 90.94,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 281236,
-                "percentage": 64,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 147641,
-                "percentage": 34,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 9868,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "TACHIRA",
+      "totals": "1229",
+      "percentage": 96.62,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 398690,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "82%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 79224,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "16%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 8937,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ANDRES BELLO",
+        "MP. ANTONIO ROMULO C",
+        "MP. AYACUCHO",
+        "MP. BOLIVAR",
+        "MP. CAPACHO NUEVO",
+        "MP. CAPACHO VIEJO",
+        "MP. CARDENAS",
+        "MP. CORDOBA",
+        "MP. FCO DE MIRANDA",
+        "MP. FERNANDEZ FEO",
+        "MP. GARCIA DE HEVIA",
+        "MP. GUASIMOS",
+        "MP. JAUREGUI",
+        "MP. JOSE M. VARGAS",
+        "MP. JUNIN",
+        "MP. LIBERTADOR",
+        "MP. LOBATERA",
+        "MP. MICHELENA",
+        "MP. PANAMERICANO",
+        "MP. RAFAEL URDANETA",
+        "MP. SAMUEL MALDONADO",
+        "MP. SAN CRISTOBAL",
+        "MP. SAN JUDAS TADEO",
+        "MP. SEBORUCO",
+        "MP. SIMON RODRIGUEZ",
+        "MP. SUCRE",
+        "MP. TORBES",
+        "MP. URIBANTE",
+        "MP.PEDRO MARIA UREÑA"
+      ]
     },
     {
-        "name": "SUCRE",
-        "totals": 1039,
-        "percentage": 93.86,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 219377,
-                "percentage": 50,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 208962,
-                "percentage": 48,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 9857,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "TRUJILLO",
+      "totals": "909",
+      "percentage": 92.85,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 222227,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "64%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 119730,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "34%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 5645,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ANDRES BELLO",
+        "MP. BOCONO",
+        "MP. BOLIVAR",
+        "MP. CANDELARIA",
+        "MP. CARACHE",
+        "MP. ESCUQUE",
+        "MP. J.F.MARQUEZ C.",
+        "MP. J.V. CAMPO ELIAS",
+        "MP. LA CEIBA",
+        "MP. MIRANDA",
+        "MP. MONTE CARMELO",
+        "MP. MOTATAN",
+        "MP. PAMPAN",
+        "MP. PAMPANITO",
+        "MP. RAFAEL RANGEL",
+        "MP. SUCRE",
+        "MP. TRUJILLO",
+        "MP. URDANETA",
+        "MP. VALERA",
+        "MP.S RAFAEL CARVAJAL"
+      ]
     },
     {
-        "name": "TÁCHIRA",
-        "totals": 1231,
-        "percentage": 96.78,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 399267,
-                "percentage": 82,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 79445,
-                "percentage": 16,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 8547,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "YARACUY",
+      "totals": "691",
+      "percentage": 91.04,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 180683,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "61%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 109678,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "37%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 7612,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. ARISTIDES BASTID",
+        "MP. BOLIVAR",
+        "MP. BRUZUAL",
+        "MP. COCOROTE",
+        "MP. INDEPENDENCIA",
+        "MP. LA TRINIDAD",
+        "MP. MANUEL MONGE",
+        "MP. NIRGUA",
+        "MP. PEÑA",
+        "MP. SAN FELIPE",
+        "MP. SUCRE",
+        "MP. URACHICHE",
+        "MP. VEROES",
+        "MP.JOSE ANTONIO PAEZ"
+      ]
     },
     {
-        "name": "TRUJILLO",
-        "totals": 910,
-        "percentage": 92.95,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 222459,
-                "percentage": 64,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 119976,
-                "percentage": 34,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 5367,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "ZULIA",
+      "totals": "2592",
+      "percentage": 78.26,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 729457,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "69%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 308007,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "29%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 15663,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "1%"
+        }
+      ],
+      "dependency": [
+        "MP. BARALT",
+        "MP. CABIMAS",
+        "MP. CATATUMBO",
+        "MP. COLON",
+        "MP. FRANCISCO J PULG",
+        "MP. INDIGENA BLVNO G",
+        "MP. JESUS E LOSSADA",
+        "MP. JESUS M SEMPRUN",
+        "MP. LA CAÑADA DE U.",
+        "MP. LAGUNILLAS",
+        "MP. MACHIQUES DE P",
+        "MP. MARA",
+        "MP. MARACAIBO",
+        "MP. MIRANDA",
+        "MP. SAN FRANCISCO",
+        "MP. SANTA RITA",
+        "MP. SIMON BOLIVAR",
+        "MP. SUCRE",
+        "MP.ROSARIO DE PERIJA",
+        "MP.VALMORE RODRIGUEZ"
+      ]
     },
     {
-        "name": "YARACUY",
-        "totals": 691,
-        "percentage": 91.04,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 180334,
-                "percentage": 61,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 109678,
-                "percentage": 37,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 7241,
-                "percentage": 2,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "AMAZONAS",
+      "totals": "108",
+      "percentage": 54.27,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 27219,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "59%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 17374,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "38%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 1199,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. ATURES"
+      ]
     },
     {
-        "name": "ZULIA",
-        "totals": 2600,
-        "percentage": 78.50,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 730852,
-                "percentage": 69,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 309732,
-                "percentage": 29,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 15071,
-                "percentage": 1,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "DELTA AMACURO",
+      "totals": "176",
+      "percentage": 70.68,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 30074,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "53%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 24797,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "44%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 1402,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "2%"
+        }
+      ],
+      "dependency": [
+        "MP. ANTONIO DIAZ",
+        "MP. CASACOIMA",
+        "MP. PEDERNALES",
+        "MP. TUCUPITA"
+      ]
     },
     {
-        "name": "NUEVA ESPARTA",
-        "totals": 507,
-        "percentage": 94.06,
-        "results" : [
-            {
-                "candidate": "Edmundo González",
-                "votes": 151664,
-                "percentage": 66,
-                "avatar": "winner.png",
-                "color": "#4E71FF"
-            },
-            {
-                "candidate": "Nicolás Maduro",
-                "votes": 70606,
-                "percentage": 31,
-                "avatar": "loser.png",
-                "color": "#FF5E5E"
-            },
-            {
-                "candidate": "Others",
-                "votes": 5804,
-                "percentage": 3,
-                "color": "#3C3C3C"
-            }
-        ]
+      "name": "LA GUAIRA",
+      "totals": "325",
+      "percentage": 78.13,
+      "results": [
+        {
+          "candidate": "Edmundo González",
+          "votes": 97042,
+          "avatar": "winner.png",
+          "color": "#4E71FF",
+          "percentage": "61%"
+        },
+        {
+          "candidate": "Nicolás Maduro",
+          "votes": 57280,
+          "avatar": "loser.png",
+          "color": "#FF5E5E",
+          "percentage": "36%"
+        },
+        {
+          "candidate": "Otros",
+          "votes": 4929,
+          "avatar": "",
+          "color": "#3C3C3C",
+          "percentage": "3%"
+        }
+      ],
+      "dependency": [
+        "MP. VARGAS"
+      ]
     }
-]
+  ]
