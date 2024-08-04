@@ -1,0 +1,59 @@
+<div class="details-dialog">
+    <div class="breadcrumbs-wrapper">
+        <div class="back" (click)="onClose()">
+            <img src="assets/images/chevron-left.svg" alt="">
+        </div>
+        <div class="breadcrumbs">
+            <span class="active">{{ data.stateResults.name }}</span> 
+        </div>
+    </div>
+    <div class="header" mat-dialog-title>
+        <h2>{{ data.stateResults.name }}</h2>
+        <div class="docs-totals">
+            <div class="docs-totals--label">Actas digitalizadas:</div>
+            <div class="docs-totals--numbers">{{data.stateResults.totals | number: '1.0-0' }} ({{data.stateResults.percentage}}%)</div>
+        </div>
+    </div>
+    <div mat-dialog-content class="main-results">
+        <div *ngFor="let result of data.stateResults.results">
+        <div class="candidate-wrapper">
+            <div class="candidate-info">
+                <img [src]="getAvatar(result.avatar)" alt="">
+                <div class="canditate-name">{{result.candidate}}</div>
+            </div>
+            <div class="candidate-data">
+                <div class="candidate-percentage"><span class="votes">{{ result.votes | number: '1.0-0'}} votos -</span> {{result.percentage}}</div>
+                <div class="circle" [style.backgroundColor]="result.color"></div>
+            </div>
+        </div>
+        </div>
+        <div class="dependency-wrapper">
+            <h3 class="dependency-title">Municipios</h3>
+            <div *ngFor="let dependency of data.dependencyResults">
+                <div class="dependency-data">
+                    <div class="header">
+                        <h2>{{ dependency.name }}</h2>
+                        <div class="docs-totals">
+                            <div class="docs-totals--label">Actas digitalizadas:</div>
+                            <div class="docs-totals--numbers">{{data.stateResults.totals | number: '1.0-0' }} ({{data.stateResults.percentage}}%)</div>
+                        </div>
+                    </div>
+                    <div class="dependency-results">
+                        <div class="candidates">
+                            <div *ngFor="let result of dependency.results">
+                                <div class="candidate-wrapper">
+                                    <div class="circle" [style.backgroundColor]="result.color"></div>
+                                    <div class="candidate-name">{{getInitials(result.candidate)}} -</div>
+                                    <div class="candidate-percentage">{{result.percentage}}</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="btn-wrapper">
+                            <button>Ver Detalles</button>
+                        </div>
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div>
+</div>

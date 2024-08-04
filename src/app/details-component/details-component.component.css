@@ -1,0 +1,225 @@
+.details-dialog {
+  max-height: 500px;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 33px 27px;
+  gap: 16px;
+  width: 415px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+.details-dialog .breadcrumbs-wrapper {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.details-dialog .breadcrumbs-wrapper .back {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 42px;
+  height: 48px;
+  background: #e4e4e4;
+  border-radius: 8px;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: "Nunito";
+  font-weight: 800;
+  color: #1d2150;
+}
+
+.details-dialog .breadcrumbs-wrapper .breadcrumbs .active {
+  margin-left: 16px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #5e5e5e;
+}
+
+.details-dialog .header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.details-dialog .header .docs-totals {
+  text-align: right;
+}
+
+.details-dialog .header h2 {
+  margin: 0;
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000;
+}
+
+.details-dialog .main-results {
+  width: 100%;
+}
+
+.candidate-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.candidate-wrapper .canditate-name {
+  max-width: 106px;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 14px;
+  font-family: "Nunito", sans-serif;
+  margin-left: 8px;
+}
+
+.candidate-wrapper .circle {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: 3C3C3C;
+  margin-left: 8px;
+}
+
+.candidate-wrapper .candidate-info {
+  display: flex;
+  align-items: center;
+}
+
+.candidate-wrapper .candidate-data {
+  display: flex;
+  align-items: center;
+  text-align: right;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.candidate-wrapper .candidate-data .votes {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.dependency-wrapper {
+  margin-top: 32px;
+}
+
+.dependency-wrapper .dependency-title {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 14px;
+  color: #000000;
+}
+
+.dependency-wrapper .dependency-data {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  gap: 8px;
+  background: #efefef;
+  border-radius: 10px;
+  margin-bottom: 8px;
+}
+
+.dependency-wrapper .dependency-data .header h2 {
+  font-size: 20px;
+}
+
+.dependency-wrapper .dependency-data .docs-totals {
+  font-size: 10px;
+}
+
+.dependency-wrapper .dependency-data .dependency-results {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dependency-wrapper .dependency-data .dependency-results .candidates {
+  display: flex;
+  flex-direction: column;
+}
+
+.dependency-wrapper .dependency-data .dependency-results .candidate-wrapper {
+  margin-bottom: 0;
+  margin-top: 4px;
+}
+
+.dependency-wrapper
+  .dependency-data
+  .dependency-results
+  .candidate-wrapper
+  .circle {
+  margin-left: 0;
+}
+
+.dependency-wrapper
+  .dependency-data
+  .dependency-results
+  .candidate-wrapper
+  .candidate-name {
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 14px;
+  font-family: "Nunito", sans-serif;
+  margin-left: 8px;
+  color: #5e5e5e;
+}
+
+.dependency-wrapper
+  .dependency-data
+  .dependency-results
+  .candidate-wrapper
+  .candidate-percentage {
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 14px;
+  font-family: "Nunito", sans-serif;
+  margin-left: 4px;
+}
+
+.dependency-wrapper .dependency-data .dependency-results .btn-wrapper {
+  display: flex;
+  align-items: flex-end;
+}
+
+.dependency-wrapper .dependency-data .dependency-results .btn-wrapper button {
+  border-radius: 8px;
+  border: none;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: "Nunito";
+  font-weight: 800;
+  color: white;
+  background: #1d2150;
+}
+
+@media (max-width: 575.98px) {
+  .details-dialog {
+    width: 250px;
+  }
+}
