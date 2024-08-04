@@ -7,7 +7,7 @@ import { StatesResult } from '../models/states.model';
   templateUrl: './bottom-component.component.html',
   styleUrls: ['./bottom-component.component.css'],
 })
-export class BottomComponentComponent implements OnInit{
+export class BottomComponent implements OnInit{
   results: StatesResult[] = []
   isExpanded = false;
   constructor(

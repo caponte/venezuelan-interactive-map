@@ -17,4 +17,8 @@ export class ResultsService {
   getNationalResults(): Observable<StatesResult[]> {
     return this.httpClient.get<StatesResult[]>('assets/data/national-results.json');
   }
+
+  getMunicipalityResults(): Observable<StatesResult[]> {
+    return this.httpClient.get<StatesResult[]>('assets/data/municipality-results.json');;
+  } 
 }
