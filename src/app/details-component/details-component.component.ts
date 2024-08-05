@@ -16,6 +16,7 @@ export class DetailsComponent implements OnInit {
   paths: any[]= [];
   state: number = 0;
   breadcrumbs: string[] = [];
+  dependencyTitle = ['Municipios','Parroquias','Centros','Mesas'];
   constructor(
     private resultsService : ResultsService,
     public dialogRef: MatDialogRef<DetailsComponent>, 
