@@ -1,19 +1,34 @@
-import { Component, Inject } from '@angular/core';
+import { Component, Inject, OnInit } from '@angular/core';
 import {
   MAT_DIALOG_DATA,
   MatDialogRef,
 } from '@angular/material/dialog';
 import { StatesResult } from '../models/states.model';
 import { flush } from '@angular/core/testing';
+import { ResultsService } from '../services/results.service';
 
 @Component({
   selector: 'app-details-component',
   templateUrl: './details-component.component.html',
   styleUrl: './details-component.component.css'
 })
-export class DetailsComponent {
-  constructor(public dialogRef: MatDialogRef<DetailsComponent>, 
-  @Inject(MAT_DIALOG_DATA) public data: any) {}
+export class DetailsComponent implements OnInit {
+  paths: any[]= [];
+  state: number = 0;
+  breadcrumbs: string[] = [];
+  constructor(
+    private resultsService : ResultsService,
+    public dialogRef: MatDialogRef<DetailsComponent>, 
+    @Inject(MAT_DIALOG_DATA) public data: any) {}
+
+  ngOnInit(): void {
+    if (this.data) {
+      this.paths.push(this.data);
+      console.log(this.paths);
+      this.breadcrumbs = this.updateBreadcrumbs();
+      console.log(this.breadcrumbs)
+    }
+  }
 
   onClose(): void {
     this.dialogRef.close();
@@ -33,5 +48,40 @@ export class DetailsComponent {
     } else {
       return fullName;
     }
+  }
+
+  updateBreadcrumbs():string[] {
+    let breadcrumbs = [] as string[];
+    this.paths.forEach(path => {breadcrumbs.push(path.mainResults.name)})
+    return breadcrumbs
+  }
+
+  setCurrentDetails(id:string):void {
+    let currentResult = {
+      mainResults: null as unknown as StatesResult,
+      dependencyResults: [] as StatesResult[],
+    }
+
+    let mainResults = this.paths[this.state].dependencyResults.filter((x: { id: string; })=> x.id === id);
+
+    currentResult.mainResults = mainResults[0];
+    
+
+    switch (this.state) {
+      case 0: 
+        this.resultsService
+          .getParishResults()
+          .subscribe((response: StatesResult[]) => {
+            currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id)); 
+            this.paths.push(currentResult);
+            this.state++;
+            this.breadcrumbs = this.updateBreadcrumbs();
+          });
+      break;
+      case 1:
+        break;
+      case 2:
+        break;
+    }    
   }
 }

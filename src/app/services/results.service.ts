@@ -19,6 +19,11 @@ export class ResultsService {
   }
 
   getMunicipalityResults(): Observable<StatesResult[]> {
-    return this.httpClient.get<StatesResult[]>('assets/data/municipality-results.json');;
+    return this.httpClient.get<StatesResult[]>('assets/data/municipality-results.json');
+  }
+
+  getParishResults(): Observable<StatesResult[]> {
+    return this.httpClient.get<StatesResult[]>('assets/data/parish-results.json');
   } 
 }
+

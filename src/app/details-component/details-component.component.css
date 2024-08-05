@@ -35,7 +35,32 @@
   color: #1d2150;
 }
 
-.details-dialog .breadcrumbs-wrapper .breadcrumbs .active {
+.details-dialog .breadcrumbs-wrapper .breadcrumbs span{
+  margin-left: 8px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #5e5e5e;
+  position: relative;
+}
+
+.details-dialog .breadcrumbs-wrapper .breadcrumbs span:not(:first-child)::before {
+  content: ' ';
+  display: inline-flex;
+  width: 8px;
+  height: 15px;
+  background-image: url('/assets/images/chevron-right.svg');
+  margin-right: 8px;
+  position: absolute;
+  top: 1.5px;
+  left: -12px;
+}
+
+.details-dialog .breadcrumbs-wrapper .breadcrumbs span:last-child {
   margin-left: 16px;
   font-family: "Nunito";
   font-style: normal;
