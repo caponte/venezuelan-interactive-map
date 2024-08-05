@@ -268,8 +268,8 @@ h3 {
   line-height: 16px;
   color: #005da9;
   text-decoration: none;
-  display: flex;
-  align-items: flex-end;
+  display: flex;  
+  align-items: flex-end
   gap: 4px;
 }
 
