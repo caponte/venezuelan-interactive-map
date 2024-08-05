@@ -4,7 +4,7 @@
             <img src="assets/images/chevron-left.svg" alt="">
         </div>
         <div class="breadcrumbs">
-            <span class="active">{{ this.paths[state].mainResults.name }}</span> 
+            <span *ngFor="let breadcrumb of this.breadcrumbs;">{{breadcrumb}}</span>
         </div>
     </div>
     <div class="header" mat-dialog-title>

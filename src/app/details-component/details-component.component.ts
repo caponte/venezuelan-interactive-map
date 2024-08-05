@@ -15,7 +15,7 @@ import { ResultsService } from '../services/results.service';
 export class DetailsComponent implements OnInit {
   paths: any[]= [];
   state: number = 0;
-
+  breadcrumbs: string[] = [];
   constructor(
     private resultsService : ResultsService,
     public dialogRef: MatDialogRef<DetailsComponent>, 
@@ -25,6 +25,8 @@ export class DetailsComponent implements OnInit {
     if (this.data) {
       this.paths.push(this.data);
       console.log(this.paths);
+      this.breadcrumbs = this.updateBreadcrumbs();
+      console.log(this.breadcrumbs)
     }
   }
 
@@ -48,8 +50,9 @@ export class DetailsComponent implements OnInit {
     }
   }
 
-  getBreadcrumbs():string[] {
-    let breadcrumbs = [''];
+  updateBreadcrumbs():string[] {
+    let breadcrumbs = [] as string[];
+    this.paths.forEach(path => {breadcrumbs.push(path.mainResults.name)})
     return breadcrumbs
   }
 
@@ -72,6 +75,7 @@ export class DetailsComponent implements OnInit {
             currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id)); 
             this.paths.push(currentResult);
             this.state++;
+            this.breadcrumbs = this.updateBreadcrumbs();
           });
       break;
       case 1:
