@@ -24,6 +24,12 @@ export class ResultsService {
 
   getParishResults(): Observable<StatesResult[]> {
     return this.httpClient.get<StatesResult[]>('assets/data/parish-results.json');
+  }
+  getCenterResults(): Observable<StatesResult[]> {
+    return this.httpClient.get<StatesResult[]>('assets/data/center-results.json');
+  }
+  getTableResults(): Observable<StatesResult[]> {
+    return this.httpClient.get<StatesResult[]>('assets/data/table-results.json');
   } 
 }
 

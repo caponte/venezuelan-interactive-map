@@ -14,7 +14,7 @@ export class BottomComponent implements OnInit{
     private resultsService: ResultsService,
   ) {}
   ngOnInit(): void {
-     this.resultsService.getNationalResults().subscribe((response: StatesResult[]) => { this.results = response; console.log(response);});
+     this.resultsService.getNationalResults().subscribe((response: StatesResult[]) => { this.results = response;});
 
   }
 

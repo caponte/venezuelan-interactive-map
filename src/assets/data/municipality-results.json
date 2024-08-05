@@ -50,6 +50,30 @@
       "9",
       "10"
     ],
+    "dependencyNames": [
+      "PQ. 23 DE ENERO",
+      "PQ. ALTAGRACIA",
+      "PQ. ANTIMANO",
+      "PQ. CANDELARIA",
+      "PQ. CARICUAO",
+      "PQ. CATEDRAL",
+      "PQ. COCHE",
+      "PQ. EL JUNQUITO",
+      "PQ. EL PARAISO",
+      "PQ. EL RECREO",
+      "PQ. EL VALLE",
+      "PQ. LA PASTORA",
+      "PQ. LA VEGA",
+      "PQ. MACARAO",
+      "PQ. SAN AGUSTIN",
+      "PQ. SAN BERNARDINO",
+      "PQ. SAN JOSE",
+      "PQ. SAN JUAN",
+      "PQ. SAN PEDRO",
+      "PQ. SANTA ROSALIA",
+      "PQ. SANTA TERESA",
+      "PQ. SUCRE"
+    ],
     "id": "1"
   },
   {
@@ -83,6 +107,10 @@
       "23",
       "24"
     ],
+    "dependencyNames": [
+      "PQ. ANACO",
+      "PQ. SAN JOAQUIN"
+    ],
     "id": "2"
   },
   {
@@ -115,6 +143,10 @@
     "dependency": [
       "25",
       "26"
+    ],
+    "dependencyNames": [
+      "CM. ARAGUA DE BARCELONA",
+      "PQ. CACHIPO"
     ],
     "id": "3"
   },
@@ -153,6 +185,14 @@
       "32",
       "28"
     ],
+    "dependencyNames": [
+      "PQ. BERGANTIN",
+      "PQ. CAIGUA",
+      "PQ. EL CARMEN",
+      "PQ. EL PILAR",
+      "PQ. NARICUAL",
+      "PQ. SAN CRISTOBAL"
+    ],
     "id": "4"
   },
   {
@@ -187,6 +227,11 @@
       "34",
       "35"
     ],
+    "dependencyNames": [
+      "CM. CLARINES",
+      "PQ. GUANAPE",
+      "PQ. SABANA DE UCHIRE"
+    ],
     "id": "5"
   },
   {
@@ -219,6 +264,10 @@
     "dependency": [
       "36",
       "37"
+    ],
+    "dependencyNames": [
+      "CM. ONOTO",
+      "PQ. SAN PABLO"
     ],
     "id": "6"
   },
@@ -255,6 +304,12 @@
       "40",
       "41"
     ],
+    "dependencyNames": [
+      "CM. CANTAURA",
+      "PQ. LIBERTADOR",
+      "PQ. SANTA ROSA",
+      "PQ. URICA"
+    ],
     "id": "7"
   },
   {
@@ -288,12 +343,16 @@
       "42",
       "43"
     ],
+    "dependencyNames": [
+      "CM. SOLEDAD",
+      "PQ. MAMO"
+    ],
     "id": "8"
   },
   {
     "name": "MP. LIBERTAD",
-    "totals": "191",
-    "percentage": 0,
+    "totals": "19",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -321,6 +380,11 @@
       "44",
       "45",
       "46"
+    ],
+    "dependencyNames": [
+      "CM. SAN MATEO",
+      "PQ. EL CARITO",
+      "PQ. SANTA INES"
     ],
     "id": "9"
   },
@@ -356,6 +420,12 @@
       "48",
       "49",
       "50"
+    ],
+    "dependencyNames": [
+      "CM. PARIAGUAN",
+      "PQ. ATAPIRIRE",
+      "PQ. BOCA DEL PAO",
+      "PQ. EL PAO"
     ],
     "id": "10"
   },
@@ -394,12 +464,20 @@
       "55",
       "56"
     ],
+    "dependencyNames": [
+      "CM. MAPIRE",
+      "PQ. PIAR",
+      "PQ. SANTA CLARA",
+      "PQ. SN DIEGO DE CABRUTICA",
+      "PQ. UVERITO",
+      "PQ. ZUATA"
+    ],
     "id": "11"
   },
   {
     "name": "MP. PEÑALVER",
-    "totals": "361",
-    "percentage": 0,
+    "totals": "36",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -427,6 +505,11 @@
       "57",
       "58",
       "59"
+    ],
+    "dependencyNames": [
+      "CM. PUERTO PIRITU",
+      "PQ. SAN MIGUEL",
+      "PQ. SUCRE"
     ],
     "id": "12"
   },
@@ -459,6 +542,9 @@
     ],
     "dependency": [
       "60"
+    ],
+    "dependencyNames": [
+      "CM. EL TIGRE"
     ],
     "id": "13"
   },
@@ -493,6 +579,10 @@
       "62",
       "61"
     ],
+    "dependencyNames": [
+      "CM. PUERTO LA CRUZ",
+      "PQ. POZUELOS"
+    ],
     "id": "14"
   },
   {
@@ -524,6 +614,9 @@
     ],
     "dependency": [
       "63"
+    ],
+    "dependencyNames": [
+      "CM. SAN JOSE DE GUANIPA"
     ],
     "id": "15"
   },
@@ -558,6 +651,10 @@
       "65",
       "64"
     ],
+    "dependencyNames": [
+      "PQ. CHORRERON",
+      "PQ. GUANTA"
+    ],
     "id": "16"
   },
   {
@@ -591,12 +688,16 @@
       "66",
       "67"
     ],
+    "dependencyNames": [
+      "PQ. PIRITU",
+      "PQ. SAN FRANCISCO"
+    ],
     "id": "17"
   },
   {
     "name": "MP. L/DIEGO BAUTISTA",
-    "totals": "431",
-    "percentage": 0,
+    "totals": "43",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -624,12 +725,16 @@
       "69",
       "68"
     ],
+    "dependencyNames": [
+      "PQ. EL MORRO",
+      "PQ. LECHERIAS"
+    ],
     "id": "18"
   },
   {
     "name": "MP. CARVAJAL",
-    "totals": "171",
-    "percentage": 0,
+    "totals": "17",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -656,6 +761,10 @@
     "dependency": [
       "71",
       "70"
+    ],
+    "dependencyNames": [
+      "PQ. SANTA BARBARA",
+      "PQ. VALLE GUANAPE"
     ],
     "id": "19"
   },
@@ -690,6 +799,10 @@
       "73",
       "72"
     ],
+    "dependencyNames": [
+      "PQ. PUEBLO NUEVO",
+      "PQ. SANTA ANA"
+    ],
     "id": "20"
   },
   {
@@ -721,6 +834,9 @@
     ],
     "dependency": [
       "74"
+    ],
+    "dependencyNames": [
+      "PQ. EL CHAPARRO"
     ],
     "id": "21"
   },
@@ -754,6 +870,10 @@
     "dependency": [
       "77",
       "76"
+    ],
+    "dependencyNames": [
+      "PQ. BOCA DE CHAVEZ",
+      "PQ. BOCA DE UCHIRE"
     ],
     "id": "22"
   },
@@ -792,6 +912,14 @@
       "82",
       "83"
     ],
+    "dependencyNames": [
+      "PQ. ACHAGUAS",
+      "PQ. APURITO",
+      "PQ. EL YAGUAL",
+      "PQ. GUACHARA",
+      "PQ. MUCURITAS",
+      "PQ. QUESERAS DEL MEDIO"
+    ],
     "id": "23"
   },
   {
@@ -827,6 +955,13 @@
       "86",
       "88",
       "87"
+    ],
+    "dependencyNames": [
+      "PQ. BRUZUAL",
+      "PQ. MANTECAL",
+      "PQ. QUINTERO",
+      "PQ. RINCON HONDO",
+      "PQ. SAN VICENTE"
     ],
     "id": "24"
   },
@@ -864,6 +999,13 @@
       "92",
       "93"
     ],
+    "dependencyNames": [
+      "PQ. ARAMENDI",
+      "PQ. EL AMPARO",
+      "PQ. GUASDUALITO",
+      "PQ. SAN CAMILO",
+      "PQ. URDANETA"
+    ],
     "id": "25"
   },
   {
@@ -898,6 +1040,11 @@
       "96",
       "94"
     ],
+    "dependencyNames": [
+      "PQ. CODAZZI",
+      "PQ. CUNAVICHE",
+      "PQ. SAN JUAN DE PAYARA"
+    ],
     "id": "26"
   },
   {
@@ -930,6 +1077,10 @@
     "dependency": [
       "97",
       "98"
+    ],
+    "dependencyNames": [
+      "PQ. ELORZA",
+      "PQ. LA TRINIDAD"
     ],
     "id": "27"
   },
@@ -966,6 +1117,12 @@
       "99",
       "102"
     ],
+    "dependencyNames": [
+      "PQ. EL RECREO",
+      "PQ. PEÑALVER",
+      "PQ. SAN FERNANDO",
+      "PQ. SN RAFAEL DE ATAMAICA"
+    ],
     "id": "28"
   },
   {
@@ -997,6 +1154,9 @@
     ],
     "dependency": [
       "103"
+    ],
+    "dependencyNames": [
+      "PQ. BIRUACA"
     ],
     "id": "29"
   },
@@ -1037,6 +1197,16 @@
       "106",
       "108"
     ],
+    "dependencyNames": [
+      "PQ. ANDRES ELOY BLANCO",
+      "PQ. CHORONI",
+      "PQ. JOAQUIN CRESPO",
+      "PQ. JOSE CASANOVA GODOY",
+      "PQ. LAS DELICIAS",
+      "PQ. LOS TACARIGUAS",
+      "PQ. MADRE MA DE SAN JOSE",
+      "PQ. PEDRO JOSE OVALLES"
+    ],
     "id": "30"
   },
   {
@@ -1072,6 +1242,13 @@
       "116",
       "115",
       "113"
+    ],
+    "dependencyNames": [
+      "CM. TURMERO",
+      "PQ. ALFREDO PACHECO M",
+      "PQ. AREVALO APONTE",
+      "PQ. CHUAO",
+      "PQ. SAMAN DE GUERE"
     ],
     "id": "31"
   },
@@ -1109,6 +1286,13 @@
       "119",
       "118"
     ],
+    "dependencyNames": [
+      "CM. JUAN VICENTE BOLIVAR",
+      "PQ. CASTOR NIEVES RIOS",
+      "PQ. LAS GUACAMAYAS",
+      "PQ. PAO DE ZARATE",
+      "PQ. ZUATA"
+    ],
     "id": "32"
   },
   {
@@ -1143,6 +1327,11 @@
       "124",
       "123"
     ],
+    "dependencyNames": [
+      "CM. SAN CASIMIRO",
+      "PQ. GUIRIPA",
+      "PQ. VALLE MORIN"
+    ],
     "id": "33"
   },
   {
@@ -1174,6 +1363,9 @@
     ],
     "dependency": [
       "126"
+    ],
+    "dependencyNames": [
+      "CM. SAN SEBASTIAN"
     ],
     "id": "34"
   },
@@ -1207,6 +1399,10 @@
     "dependency": [
       "127",
       "128"
+    ],
+    "dependencyNames": [
+      "CM. CAGUA",
+      "PQ. BELLA VISTA"
     ],
     "id": "35"
   },
@@ -1242,6 +1438,12 @@
       "132",
       "130",
       "131"
+    ],
+    "dependencyNames": [
+      "CM. BARBACOAS",
+      "PQ. LAS PEÑITAS",
+      "PQ. SAN FRANCISCO DE CARA",
+      "PQ. TAGUAY"
     ],
     "id": "36"
   },
@@ -1279,6 +1481,13 @@
       "135",
       "136"
     ],
+    "dependencyNames": [
+      "CM. VILLA DE CURA",
+      "PQ. MAGDALENO",
+      "PQ. PQ AUGUSTO MIJARES",
+      "PQ. SAN FRANCISCO DE ASIS",
+      "PQ. VALLES DE TUCUTUNEMO"
+    ],
     "id": "37"
   },
   {
@@ -1312,12 +1521,16 @@
       "138",
       "139"
     ],
+    "dependencyNames": [
+      "CM. PALO NEGRO",
+      "PQ. SAN MARTIN DE PORRES"
+    ],
     "id": "38"
   },
   {
     "name": "MP. JOSE ANGEL LAMAS",
-    "totals": "341",
-    "percentage": 0,
+    "totals": "34",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -1343,6 +1556,9 @@
     ],
     "dependency": [
       "140"
+    ],
+    "dependencyNames": [
+      "CM. SANTA CRUZ"
     ],
     "id": "39"
   },
@@ -1375,6 +1591,9 @@
     ],
     "dependency": [
       "141"
+    ],
+    "dependencyNames": [
+      "CM. SAN MATEO"
     ],
     "id": "40"
   },
@@ -1409,6 +1628,10 @@
       "142",
       "143"
     ],
+    "dependencyNames": [
+      "CM. LAS TEJERIAS",
+      "PQ. TIARA"
+    ],
     "id": "41"
   },
   {
@@ -1442,12 +1665,16 @@
       "144",
       "145"
     ],
+    "dependencyNames": [
+      "CM. EL LIMON",
+      "PQ. CAÑA DE AZUCAR"
+    ],
     "id": "42"
   },
   {
     "name": "MP. TOVAR",
-    "totals": "311",
-    "percentage": 0,
+    "totals": "31",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -1474,12 +1701,15 @@
     "dependency": [
       "146"
     ],
+    "dependencyNames": [
+      "CM. COLONIA TOVAR"
+    ],
     "id": "43"
   },
   {
     "name": "MP. CAMATAGUA",
-    "totals": "191",
-    "percentage": 0,
+    "totals": "19",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -1506,6 +1736,10 @@
     "dependency": [
       "147",
       "148"
+    ],
+    "dependencyNames": [
+      "CM. CAMATAGUA",
+      "PQ. CARMEN DE CURA"
     ],
     "id": "44"
   },
@@ -1539,12 +1773,15 @@
     "dependency": [
       "149"
     ],
+    "dependencyNames": [
+      "CM. EL CONSEJO"
+    ],
     "id": "45"
   },
   {
     "name": "MP.FRANCISCO LINARES",
-    "totals": "1171",
-    "percentage": 0,
+    "totals": "117",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -1573,12 +1810,17 @@
       "151",
       "152"
     ],
+    "dependencyNames": [
+      "CM. SANTA RITA",
+      "PQ. FRANCISCO DE MIRANDA",
+      "PQ. MONS FELICIANO G"
+    ],
     "id": "46"
   },
   {
     "name": "MP.OCUMARE D L COSTA",
-    "totals": "151",
-    "percentage": 0,
+    "totals": "15",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -1604,6 +1846,9 @@
     ],
     "dependency": [
       "153"
+    ],
+    "dependencyNames": [
+      "PQ. OCUMARE DE LA COSTA"
     ],
     "id": "47"
   },
@@ -1638,6 +1883,11 @@
       "154",
       "155",
       "156"
+    ],
+    "dependencyNames": [
+      "PQ. ARISMENDI",
+      "PQ. GUADARRAMA",
+      "PQ. LA UNION"
     ],
     "id": "48"
   },
@@ -1683,6 +1933,21 @@
       "161",
       "163"
     ],
+    "dependencyNames": [
+      "PQ. ALFREDO A LARRIVA",
+      "PQ. ALTO BARINAS",
+      "PQ. BARINAS",
+      "PQ. CORAZON DE JESUS",
+      "PQ. DOMINGA ORTIZ P",
+      "PQ. EL CARMEN",
+      "PQ. JUAN A RODRIGUEZ D",
+      "PQ. MANUEL P FAJARDO",
+      "PQ. RAMON I MENDEZ",
+      "PQ. ROMULO BETANCOURT",
+      "PQ. SAN SILVESTRE",
+      "PQ. SANTA INES",
+      "PQ. TORUNOS"
+    ],
     "id": "49"
   },
   {
@@ -1717,12 +1982,17 @@
       "173",
       "174"
     ],
+    "dependencyNames": [
+      "PQ. ALTAMIRA",
+      "PQ. BARINITAS",
+      "PQ. CALDERAS"
+    ],
     "id": "50"
   },
   {
     "name": "MP. EZEQUIEL ZAMORA",
-    "totals": "691",
-    "percentage": 0,
+    "totals": "69",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -1751,6 +2021,12 @@
       "177",
       "175",
       "176"
+    ],
+    "dependencyNames": [
+      "PQ. PEDRO BRICEÑO MENDEZ",
+      "PQ. RAMON IGNACIO MENDEZ",
+      "PQ. SANTA BARBARA",
+      "PQ.JOSE IGNACIO DEL PUMAR"
     ],
     "id": "51"
   },
@@ -1787,6 +2063,12 @@
       "182",
       "181"
     ],
+    "dependencyNames": [
+      "PQ. EL REAL",
+      "PQ. LA LUZ",
+      "PQ. LOS GUASIMITOS",
+      "PQ. OBISPOS"
+    ],
     "id": "52"
   },
   {
@@ -1821,6 +2103,12 @@
       "184",
       "186",
       "185"
+    ],
+    "dependencyNames": [
+      "PQ. CIUDAD BOLIVIA",
+      "PQ. IGNACIO BRICEÑO",
+      "PQ. JOSE FELIX RIBAS",
+      "PQ. PAEZ"
     ],
     "id": "53"
   },
@@ -1858,6 +2146,13 @@
       "190",
       "191"
     ],
+    "dependencyNames": [
+      "PQ. DOLORES",
+      "PQ. LIBERTAD",
+      "PQ. PALACIOS FAJARDO",
+      "PQ. SANTA ROSA",
+      "PQ. SIMON RODRIGUEZ"
+    ],
     "id": "54"
   },
   {
@@ -1894,6 +2189,13 @@
       "195",
       "196"
     ],
+    "dependencyNames": [
+      "PQ. CIUDAD DE NUTRIAS",
+      "PQ. EL REGALO",
+      "PQ. PUERTO DE NUTRIAS",
+      "PQ. SANTA CATALINA",
+      "PQ. SIMON BOLIVAR"
+    ],
     "id": "55"
   },
   {
@@ -1926,6 +2228,10 @@
     "dependency": [
       "197",
       "198"
+    ],
+    "dependencyNames": [
+      "PQ. RODRIGUEZ DOMINGUEZ",
+      "PQ. SABANETA"
     ],
     "id": "56"
   },
@@ -1961,6 +2267,11 @@
       "200",
       "199"
     ],
+    "dependencyNames": [
+      "PQ. ANDRES BELLO",
+      "PQ. NICOLAS PULIDO",
+      "PQ. TICOPORO"
+    ],
     "id": "57"
   },
   {
@@ -1995,12 +2306,17 @@
       "203",
       "204"
     ],
+    "dependencyNames": [
+      "PQ. BARRANCAS",
+      "PQ. EL SOCORRO",
+      "PQ. MASPARRITO"
+    ],
     "id": "58"
   },
   {
     "name": "MP. ANDRES E. BLANCO",
-    "totals": "281",
-    "percentage": 0,
+    "totals": "28",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -2028,6 +2344,11 @@
       "205",
       "207",
       "206"
+    ],
+    "dependencyNames": [
+      "PQ. EL CANTON",
+      "PQ. PUERTO VIVAS",
+      "PQ. SANTA CRUZ DE GUACAS"
     ],
     "id": "59"
   },
@@ -2071,6 +2392,19 @@
       "210",
       "216"
     ],
+    "dependencyNames": [
+      "PQ. 5 DE JULIO",
+      "PQ. CACHAMAY",
+      "PQ. CHIRICA",
+      "PQ. DALLA COSTA",
+      "PQ. ONCE DE ABRIL",
+      "PQ. POZO VERDE",
+      "PQ. SIMON BOLIVAR",
+      "PQ. UNARE",
+      "PQ. UNIVERSIDAD",
+      "PQ. VISTA AL SOL",
+      "PQ. YOCOIMA"
+    ],
     "id": "60"
   },
   {
@@ -2104,6 +2438,11 @@
       "219",
       "220",
       "222"
+    ],
+    "dependencyNames": [
+      "CM. CAICARA DEL ORINOCO",
+      "PQ. ASCENSION FARRERAS",
+      "PQ. LA URBANA"
     ],
     "id": "61"
   },
@@ -2145,6 +2484,17 @@
       "228",
       "233"
     ],
+    "dependencyNames": [
+      "PQ. AGUA SALADA",
+      "PQ. CATEDRAL",
+      "PQ. JOSE ANTONIO PAEZ",
+      "PQ. LA SABANITA",
+      "PQ. MARHUANTA",
+      "PQ. ORINOCO",
+      "PQ. PANAPANA",
+      "PQ. VISTA HERMOSA",
+      "PQ. ZEA"
+    ],
     "id": "62"
   },
   {
@@ -2179,6 +2529,11 @@
       "235",
       "236"
     ],
+    "dependencyNames": [
+      "CM. UPATA",
+      "PQ. ANDRES ELOY BLANCO",
+      "PQ. PEDRO COVA"
+    ],
     "id": "63"
   },
   {
@@ -2211,6 +2566,10 @@
     "dependency": [
       "237",
       "238"
+    ],
+    "dependencyNames": [
+      "CM. GUASIPATI",
+      "PQ. SALOM"
     ],
     "id": "64"
   },
@@ -2248,6 +2607,13 @@
       "241",
       "242"
     ],
+    "dependencyNames": [
+      "CM. MARIPA",
+      "PQ. ARIPAO",
+      "PQ. GUARATARO",
+      "PQ. LAS MAJADAS",
+      "PQ. MOITACO"
+    ],
     "id": "65"
   },
   {
@@ -2279,6 +2645,9 @@
     ],
     "dependency": [
       "244"
+    ],
+    "dependencyNames": [
+      "CM. TUMEREMO"
     ],
     "id": "66"
   },
@@ -2315,6 +2684,12 @@
       "248",
       "250"
     ],
+    "dependencyNames": [
+      "CM. CIUDAD PIAR",
+      "PQ. BARCELONETA",
+      "PQ. SAN FRANCISCO",
+      "PQ. SANTA BARBARA"
+    ],
     "id": "67"
   },
   {
@@ -2346,6 +2721,9 @@
     ],
     "dependency": [
       "251"
+    ],
+    "dependencyNames": [
+      "CM. SANTA ELENA DE UAIREN"
     ],
     "id": "68"
   },
@@ -2379,12 +2757,15 @@
     "dependency": [
       "253"
     ],
+    "dependencyNames": [
+      "CM. EL CALLAO"
+    ],
     "id": "69"
   },
   {
     "name": "MP.PADRE PEDRO CHIEN",
-    "totals": "191",
-    "percentage": 0,
+    "totals": "19",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -2410,6 +2791,9 @@
     ],
     "dependency": [
       "254"
+    ],
+    "dependencyNames": [
+      "CM. EL PALMAR"
     ],
     "id": "70"
   },
@@ -2445,6 +2829,11 @@
       "256",
       "257"
     ],
+    "dependencyNames": [
+      "PQ. BEJUMA",
+      "PQ. CANOABO",
+      "PQ. SIMON BOLIVAR"
+    ],
     "id": "71"
   },
   {
@@ -2479,6 +2868,11 @@
       "258",
       "260"
     ],
+    "dependencyNames": [
+      "PQ. BELEN",
+      "PQ. GUIGUE",
+      "PQ. TACARIGUA"
+    ],
     "id": "72"
   },
   {
@@ -2511,6 +2905,10 @@
     "dependency": [
       "262",
       "261"
+    ],
+    "dependencyNames": [
+      "PQ. AGUAS CALIENTES",
+      "PQ. MARIARA"
     ],
     "id": "73"
   },
@@ -2546,12 +2944,17 @@
       "263",
       "265"
     ],
+    "dependencyNames": [
+      "PQ. CIUDAD ALIANZA",
+      "PQ. GUACARA",
+      "PQ. YAGUA"
+    ],
     "id": "74"
   },
   {
     "name": "MP. MONTALBAN",
-    "totals": "241",
-    "percentage": 0,
+    "totals": "24",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -2577,6 +2980,9 @@
     ],
     "dependency": [
       "266"
+    ],
+    "dependencyNames": [
+      "PQ. MONTALBAN"
     ],
     "id": "75"
   },
@@ -2610,6 +3016,10 @@
     "dependency": [
       "267",
       "268"
+    ],
+    "dependencyNames": [
+      "PQ. MORON",
+      "PQ. URAMA"
     ],
     "id": "76"
   },
@@ -2648,6 +3058,14 @@
       "272",
       "274"
     ],
+    "dependencyNames": [
+      "PQ. BARTOLOME SALOM",
+      "PQ. BORBURATA",
+      "PQ. FRATERNIDAD",
+      "PQ. GOAIGOAZA",
+      "PQ. JUAN JOSE FLORES",
+      "PQ. UNION"
+    ],
     "id": "77"
   },
   {
@@ -2679,6 +3097,9 @@
     ],
     "dependency": [
       "277"
+    ],
+    "dependencyNames": [
+      "PQ. SAN JOAQUIN"
     ],
     "id": "78"
   },
@@ -2718,6 +3139,15 @@
       "283",
       "284"
     ],
+    "dependencyNames": [
+      "PQ. CANDELARIA",
+      "PQ. CATEDRAL",
+      "PQ. MIGUEL PEÑA",
+      "PQ. RAFAEL URDANETA",
+      "PQ. SAN BLAS",
+      "PQ. SAN JOSE",
+      "PQ. SANTA ROSA"
+    ],
     "id": "79"
   },
   {
@@ -2749,6 +3179,9 @@
     ],
     "dependency": [
       "287"
+    ],
+    "dependencyNames": [
+      "PQ. MIRANDA"
     ],
     "id": "80"
   },
@@ -2782,6 +3215,9 @@
     "dependency": [
       "288"
     ],
+    "dependencyNames": [
+      "PQ. U LOS GUAYOS"
+    ],
     "id": "81"
   },
   {
@@ -2813,6 +3249,9 @@
     ],
     "dependency": [
       "289"
+    ],
+    "dependencyNames": [
+      "PQ. NAGUANAGUA"
     ],
     "id": "82"
   },
@@ -2846,6 +3285,9 @@
     "dependency": [
       "290"
     ],
+    "dependencyNames": [
+      "PQ. URB SAN DIEGO"
+    ],
     "id": "83"
   },
   {
@@ -2878,12 +3320,15 @@
     "dependency": [
       "291"
     ],
+    "dependencyNames": [
+      "PQ. U TOCUYITO"
+    ],
     "id": "84"
   },
   {
     "name": "MP. ANZOATEGUI",
-    "totals": "251",
-    "percentage": 0,
+    "totals": "25",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -2910,6 +3355,10 @@
     "dependency": [
       "293",
       "294"
+    ],
+    "dependencyNames": [
+      "PQ. COJEDES",
+      "PQ. JUAN DE MATA SUAREZ"
     ],
     "id": "85"
   },
@@ -2942,6 +3391,9 @@
     ],
     "dependency": [
       "295"
+    ],
+    "dependencyNames": [
+      "PQ. TINAQUILLO"
     ],
     "id": "86"
   },
@@ -2976,6 +3428,10 @@
       "296",
       "297"
     ],
+    "dependencyNames": [
+      "PQ. EL BAUL",
+      "PQ. SUCRE"
+    ],
     "id": "87"
   },
   {
@@ -3008,12 +3464,15 @@
     "dependency": [
       "298"
     ],
+    "dependencyNames": [
+      "PQ. EL PAO"
+    ],
     "id": "88"
   },
   {
     "name": "MP. RICAURTE",
-    "totals": "201",
-    "percentage": 0,
+    "totals": "20",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -3040,6 +3499,10 @@
     "dependency": [
       "300",
       "299"
+    ],
+    "dependencyNames": [
+      "PQ. EL AMPARO",
+      "PQ. LIBERTAD DE COJEDES"
     ],
     "id": "89"
   },
@@ -3075,6 +3538,11 @@
       "303",
       "301"
     ],
+    "dependencyNames": [
+      "PQ. JUAN ANGEL BRAVO",
+      "PQ. MANUEL MANRIQUE",
+      "PQ. SAN CARLOS DE AUSTRIA"
+    ],
     "id": "90"
   },
   {
@@ -3107,12 +3575,15 @@
     "dependency": [
       "304"
     ],
+    "dependencyNames": [
+      "PQ. GRL/JEFE JOSE L SILVA"
+    ],
     "id": "91"
   },
   {
     "name": "MP. LIMA BLANCO",
-    "totals": "171",
-    "percentage": 0,
+    "totals": "17",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -3140,12 +3611,16 @@
       "306",
       "305"
     ],
+    "dependencyNames": [
+      "PQ. LA AGUADITA",
+      "PQ. MACAPO"
+    ],
     "id": "92"
   },
   {
     "name": "MP. ROMULO GALLEGOS",
-    "totals": "301",
-    "percentage": 0,
+    "totals": "30",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -3171,6 +3646,9 @@
     ],
     "dependency": [
       "307"
+    ],
+    "dependencyNames": [
+      "PQ. ROMULO GALLEGOS"
     ],
     "id": "93"
   },
@@ -3207,6 +3685,12 @@
       "311",
       "308"
     ],
+    "dependencyNames": [
+      "PQ. CAPADARE",
+      "PQ. LA PASTORA",
+      "PQ. LIBERTADOR",
+      "PQ. SAN JUAN DE LOS CAYOS"
+    ],
     "id": "94"
   },
   {
@@ -3240,6 +3724,11 @@
       "313",
       "314",
       "312"
+    ],
+    "dependencyNames": [
+      "PQ. ARACUA",
+      "PQ. LA PEÑA",
+      "PQ. SAN LUIS"
     ],
     "id": "95"
   },
@@ -3278,6 +3767,14 @@
       "317",
       "318"
     ],
+    "dependencyNames": [
+      "PQ. BARIRO",
+      "PQ. BOROJO",
+      "PQ. CAPATARIDA",
+      "PQ. GUAJIRO",
+      "PQ. SEQUE",
+      "PQ. ZAZARIDA"
+    ],
     "id": "96"
   },
   {
@@ -3312,6 +3809,12 @@
       "321",
       "323",
       "324"
+    ],
+    "dependencyNames": [
+      "PQ. CARIRUBANA",
+      "PQ. NORTE",
+      "PQ. PUNTA CARDON",
+      "PQ. SANTA ANA"
     ],
     "id": "97"
   },
@@ -3348,14 +3851,55 @@
       "325",
       "329"
     ],
+    "dependencyNames": [
+      "PQ. ACURIGUA",
+      "PQ. GUAIBACOA",
+      "PQ. LA VELA DE CORO",
+      "PQ. LAS CALDERAS"
+    ],
     "id": "98"
   },
   {
-    "name": "",
-    "totals": "",
-    "percentage": 0,
-    "results": [],
-    "dependency": [],
+    "name": "MP. DEMOCRACIA",
+    "totals": "36",
+    "percentage": 97.3,
+    "results": [
+      {
+        "candidate": "Edmundo González",
+        "votes": 4122,
+        "avatar": "winner.png",
+        "color": "#4E71FF",
+        "percentage": "66%"
+      },
+      {
+        "candidate": "Nicolás Maduro",
+        "votes": 2000,
+        "avatar": "loser.png",
+        "color": "#FF5E5E",
+        "percentage": "32%"
+      },
+      {
+        "candidate": "Otros",
+        "votes": 124,
+        "avatar": "",
+        "color": "#3C3C3C",
+        "percentage": "2%"
+      }
+    ],
+    "dependency": [
+      "331",
+      "332",
+      "330",
+      "333",
+      "334"
+    ],
+    "dependencyNames": [
+      "PQ. AGUA CLARA",
+      "PQ. AVARIA",
+      "PQ. PEDREGAL",
+      "PQ. PIEDRA GRANDE",
+      "PQ. PURURECHE"
+    ],
     "id": "99"
   },
   {
@@ -3396,6 +3940,17 @@
       "340",
       "335"
     ],
+    "dependencyNames": [
+      "PQ. ADAURE",
+      "PQ. ADICORA",
+      "PQ. BARAIVED",
+      "PQ. BUENA VISTA",
+      "PQ. EL HATO",
+      "PQ. EL VINCULO",
+      "PQ. JADACAQUIVA",
+      "PQ. MORUY",
+      "PQ. PUEBLO NUEVO"
+    ],
     "id": "100"
   },
   {
@@ -3432,6 +3987,13 @@
       "346",
       "347"
     ],
+    "dependencyNames": [
+      "PQ. AGUA LARGA",
+      "PQ. CHURUGUARA",
+      "PQ. EL PAUJI",
+      "PQ. INDEPENDENCIA",
+      "PQ. MAPARARI"
+    ],
     "id": "101"
   },
   {
@@ -3465,6 +4027,11 @@
       "350",
       "349",
       "351"
+    ],
+    "dependencyNames": [
+      "PQ. CASIGUA",
+      "PQ. MENE DE MAUROA",
+      "PQ. SAN FELIX"
     ],
     "id": "102"
   },
@@ -3504,6 +4071,15 @@
       "353",
       "354"
     ],
+    "dependencyNames": [
+      "PQ. GUZMAN GUILLERMO",
+      "PQ. MITARE",
+      "PQ. RIO SECO",
+      "PQ. SABANETA",
+      "PQ. SAN ANTONIO",
+      "PQ. SAN GABRIEL",
+      "PQ. SANTA ANA"
+    ],
     "id": "103"
   },
   {
@@ -3538,6 +4114,11 @@
       "361",
       "360"
     ],
+    "dependencyNames": [
+      "PQ. CABURE",
+      "PQ. COLINA",
+      "PQ. CURIMAGUA"
+    ],
     "id": "104"
   },
   {
@@ -3570,6 +4151,10 @@
     "dependency": [
       "363",
       "362"
+    ],
+    "dependencyNames": [
+      "PQ. BOCA DE AROA",
+      "PQ. TUCACAS"
     ],
     "id": "105"
   },
@@ -3607,12 +4192,19 @@
       "364",
       "368"
     ],
+    "dependencyNames": [
+      "PQ. LA CIENAGA",
+      "PQ. LA SOLEDAD",
+      "PQ. PUEBLO CUMAREBO",
+      "PQ. PUERTO CUMAREBO",
+      "PQ. ZAZARIDA"
+    ],
     "id": "106"
   },
   {
     "name": "MP. DABAJURO",
-    "totals": "291",
-    "percentage": 0,
+    "totals": "29",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -3638,6 +4230,9 @@
     ],
     "dependency": [
       "369"
+    ],
+    "dependencyNames": [
+      "CM. DABAJURO"
     ],
     "id": "107"
   },
@@ -3673,6 +4268,11 @@
       "370",
       "372"
     ],
+    "dependencyNames": [
+      "PQ. BOCA DE TOCUYO",
+      "PQ. CHICHIRIVICHE",
+      "PQ. TOCUYO DE LA COSTA"
+    ],
     "id": "108"
   },
   {
@@ -3706,6 +4306,10 @@
       "374",
       "373"
     ],
+    "dependencyNames": [
+      "PQ. JUDIBANA",
+      "PQ. LOS TAQUES"
+    ],
     "id": "109"
   },
   {
@@ -3738,6 +4342,10 @@
     "dependency": [
       "375",
       "376"
+    ],
+    "dependencyNames": [
+      "PQ. PIRITU",
+      "PQ. SAN JOSE DE LA COSTA"
     ],
     "id": "110"
   },
@@ -3773,6 +4381,11 @@
       "379",
       "377"
     ],
+    "dependencyNames": [
+      "PQ. EL CHARAL",
+      "PQ. LAS VEGAS DEL TUY",
+      "PQ. STA.CRUZ DE BUCARAL"
+    ],
     "id": "111"
   },
   {
@@ -3805,12 +4418,15 @@
     "dependency": [
       "380"
     ],
+    "dependencyNames": [
+      "CM. MIRIMIRE"
+    ],
     "id": "112"
   },
   {
     "name": "MP. JACURA",
-    "totals": "231",
-    "percentage": 0,
+    "totals": "23",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -3838,6 +4454,11 @@
       "382",
       "383",
       "381"
+    ],
+    "dependencyNames": [
+      "PQ. AGUA LINDA",
+      "PQ. ARAURIMA",
+      "PQ. JACURA"
     ],
     "id": "113"
   },
@@ -3871,12 +4492,15 @@
     "dependency": [
       "384"
     ],
+    "dependencyNames": [
+      "CM. YARACAL"
+    ],
     "id": "114"
   },
   {
     "name": "MP. PALMASOLA",
-    "totals": "121",
-    "percentage": 0,
+    "totals": "12",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -3902,6 +4526,9 @@
     ],
     "dependency": [
       "385"
+    ],
+    "dependencyNames": [
+      "CM. PALMASOLA"
     ],
     "id": "115"
   },
@@ -3936,6 +4563,10 @@
       "387",
       "386"
     ],
+    "dependencyNames": [
+      "PQ. PECAYA",
+      "PQ. SUCRE"
+    ],
     "id": "116"
   },
   {
@@ -3969,6 +4600,10 @@
       "389",
       "388"
     ],
+    "dependencyNames": [
+      "PQ. BRUZUAL",
+      "PQ. URUMACO"
+    ],
     "id": "117"
   },
   {
@@ -4000,6 +4635,9 @@
     ],
     "dependency": [
       "390"
+    ],
+    "dependencyNames": [
+      "CM. TOCOPERO"
     ],
     "id": "118"
   },
@@ -4034,6 +4672,10 @@
       "392",
       "391"
     ],
+    "dependencyNames": [
+      "PQ. ESPINO",
+      "PQ. VALLE DE LA PASCUA"
+    ],
     "id": "119"
   },
   {
@@ -4066,6 +4708,10 @@
     "dependency": [
       "393",
       "394"
+    ],
+    "dependencyNames": [
+      "PQ. EL SOMBRERO",
+      "PQ. SOSA"
     ],
     "id": "120"
   },
@@ -4101,6 +4747,12 @@
       "396",
       "397",
       "398"
+    ],
+    "dependencyNames": [
+      "PQ. CALABOZO",
+      "PQ. EL CALVARIO",
+      "PQ. EL RASTRO",
+      "PQ. GUARDATINAJAS"
     ],
     "id": "121"
   },
@@ -4139,6 +4791,14 @@
       "403",
       "404"
     ],
+    "dependencyNames": [
+      "PQ. ALTAGRACIA DE ORITUCO",
+      "PQ. LEZAMA",
+      "PQ. PASO REAL DE MACAIRA",
+      "PQ. SAN FCO DE MACAIRA",
+      "PQ. SAN RAFAEL DE ORITUCO",
+      "PQ. SOUBLETTE"
+    ],
     "id": "122"
   },
   {
@@ -4171,6 +4831,10 @@
     "dependency": [
       "407",
       "406"
+    ],
+    "dependencyNames": [
+      "PQ. SAN RAFAEL DE LAYA",
+      "PQ. TUCUPIDO"
     ],
     "id": "123"
   },
@@ -4206,6 +4870,11 @@
       "409",
       "408"
     ],
+    "dependencyNames": [
+      "PQ. CANTAGALLO",
+      "PQ. PARAPARA",
+      "PQ.SAN JUAN DE LOS MORROS"
+    ],
     "id": "124"
   },
   {
@@ -4238,6 +4907,10 @@
     "dependency": [
       "412",
       "411"
+    ],
+    "dependencyNames": [
+      "PQ. SAN JOSE DE UNARE",
+      "PQ. ZARAZA"
     ],
     "id": "125"
   },
@@ -4272,6 +4945,10 @@
       "413",
       "415"
     ],
+    "dependencyNames": [
+      "PQ. CAMAGUAN",
+      "PQ. UVERITO"
+    ],
     "id": "126"
   },
   {
@@ -4303,6 +4980,9 @@
     ],
     "dependency": [
       "416"
+    ],
+    "dependencyNames": [
+      "PQ. SAN JOSE DE GUARIBE"
     ],
     "id": "127"
   },
@@ -4338,12 +5018,17 @@
       "417",
       "418"
     ],
+    "dependencyNames": [
+      "PQ. CABRUTA",
+      "PQ. LAS MERCEDES",
+      "PQ. STA RITA DE MANAPIRE"
+    ],
     "id": "128"
   },
   {
     "name": "MP. EL SOCORRO",
-    "totals": "251",
-    "percentage": 0,
+    "totals": "25",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -4369,6 +5054,9 @@
     ],
     "dependency": [
       "420"
+    ],
+    "dependencyNames": [
+      "PQ. EL SOCORRO"
     ],
     "id": "129"
   },
@@ -4405,6 +5093,12 @@
       "422",
       "423"
     ],
+    "dependencyNames": [
+      "PQ. ORTIZ",
+      "PQ. S LORENZO DE TIZNADOS",
+      "PQ. SAN FCO. DE TIZNADOS",
+      "PQ. SAN JOSE DE TIZNADOS"
+    ],
     "id": "130"
   },
   {
@@ -4438,6 +5132,10 @@
       "426",
       "425"
     ],
+    "dependencyNames": [
+      "PQ. ALTAMIRA",
+      "PQ. SANTA MARIA DE IPIRE"
+    ],
     "id": "131"
   },
   {
@@ -4469,6 +5167,9 @@
     ],
     "dependency": [
       "427"
+    ],
+    "dependencyNames": [
+      "PQ. CHAGUARAMAS"
     ],
     "id": "132"
   },
@@ -4503,6 +5204,10 @@
       "429",
       "428"
     ],
+    "dependencyNames": [
+      "PQ. CAZORLA",
+      "PQ. GUAYABAL"
+    ],
     "id": "133"
   },
   {
@@ -4535,6 +5240,10 @@
     "dependency": [
       "430",
       "431"
+    ],
+    "dependencyNames": [
+      "PQ. FREITEZ",
+      "PQ. JOSE MARIA BLANCO"
     ],
     "id": "134"
   },
@@ -4576,6 +5285,17 @@
       "437",
       "435"
     ],
+    "dependencyNames": [
+      "PQ. BUENA VISTA",
+      "PQ. CATEDRAL",
+      "PQ. EL CUJI",
+      "PQ. GUERRERA ANA SOTO",
+      "PQ. JUAREZ",
+      "PQ. LA CONCEPCION",
+      "PQ. SANTA ROSA",
+      "PQ. TAMACA",
+      "PQ. UNION"
+    ],
     "id": "135"
   },
   {
@@ -4614,6 +5334,16 @@
       "446",
       "444",
       "447"
+    ],
+    "dependencyNames": [
+      "PQ. CRNEL. MARIANO PERAZA",
+      "PQ. CUARA",
+      "PQ. DIEGO DE LOZADA",
+      "PQ. JOSE BERNARDO DORANTE",
+      "PQ. JUAN B RODRIGUEZ",
+      "PQ. PARAISO DE SAN JOSE",
+      "PQ. SAN MIGUEL",
+      "PQ. TINTORERO"
     ],
     "id": "136"
   },
@@ -4654,6 +5384,16 @@
       "457",
       "455"
     ],
+    "dependencyNames": [
+      "PQ. ANZOATEGUI",
+      "PQ. BOLIVAR",
+      "PQ. GUARICO",
+      "PQ. HILARIO LUNA Y LUNA",
+      "PQ. HUMOCARO ALTO",
+      "PQ. HUMOCARO BAJO",
+      "PQ. LA CANDELARIA",
+      "PQ. MORAN"
+    ],
     "id": "137"
   },
   {
@@ -4687,6 +5427,11 @@
       "460",
       "458",
       "459"
+    ],
+    "dependencyNames": [
+      "PQ. AGUA VIVA",
+      "PQ. CABUDARE",
+      "PQ. JOSE G. BASTIDAS"
     ],
     "id": "138"
   },
@@ -4736,6 +5481,25 @@
       "470",
       "461"
     ],
+    "dependencyNames": [
+      "PQ. ALTAGRACIA",
+      "PQ. ANTONIO DIAZ",
+      "PQ. CAMACARO",
+      "PQ. CASTAÑEDA",
+      "PQ. CECILIO ZUBILLAGA",
+      "PQ. CHIQUINQUIRA",
+      "PQ. EL BLANCO",
+      "PQ. ESPINOZA LOS MONTEROS",
+      "PQ. HERIBERTO ARROYO",
+      "PQ. LARA",
+      "PQ. LAS MERCEDES",
+      "PQ. MANUEL MORILLO",
+      "PQ. MONTA¿A VERDE",
+      "PQ. MONTES DE OCA",
+      "PQ. REYES VARGAS",
+      "PQ. TORRES",
+      "PQ. TRINIDAD SAMUEL"
+    ],
     "id": "139"
   },
   {
@@ -4771,6 +5535,12 @@
       "478",
       "480"
     ],
+    "dependencyNames": [
+      "PQ. MOROTURO",
+      "PQ. SAN MIGUEL",
+      "PQ. SIQUISIQUE",
+      "PQ. XAGUAS"
+    ],
     "id": "140"
   },
   {
@@ -4805,14 +5575,50 @@
       "484",
       "483"
     ],
+    "dependencyNames": [
+      "PQ. PIO TAMAYO",
+      "PQ. QBDA. HONDA DE GUACHE",
+      "PQ. YACAMBU"
+    ],
     "id": "141"
   },
   {
-    "name": "",
-    "totals": "",
-    "percentage": 0,
-    "results": [],
-    "dependency": [],
+    "name": "MP. SIMON PLANAS",
+    "totals": "13",
+    "percentage": 21.31,
+    "results": [
+      {
+        "candidate": "Edmundo González",
+        "votes": 2654,
+        "avatar": "winner.png",
+        "color": "#4E71FF",
+        "percentage": "57%"
+      },
+      {
+        "candidate": "Nicolás Maduro",
+        "votes": 1928,
+        "avatar": "loser.png",
+        "color": "#FF5E5E",
+        "percentage": "41%"
+      },
+      {
+        "candidate": "Otros",
+        "votes": 98,
+        "avatar": "",
+        "color": "#3C3C3C",
+        "percentage": "2%"
+      }
+    ],
+    "dependency": [
+      "487",
+      "486",
+      "485"
+    ],
+    "dependencyNames": [
+      "PQ. BURIA",
+      "PQ. GUSTAVO VEGAS LEON",
+      "PQ. SARARE"
+    ],
     "id": "142"
   },
   {
@@ -4851,12 +5657,21 @@
       "492",
       "491"
     ],
+    "dependencyNames": [
+      "PQ. GABRIEL PICON G.",
+      "PQ. HECTOR AMABLE MORA",
+      "PQ. JOSE NUCETE SARDI",
+      "PQ. PRESIDENTE BETANCOURT",
+      "PQ. PRESIDENTE PAEZ",
+      "PQ. PTE. ROMULO GALLEGOS",
+      "PQ. PULIDO MENDEZ"
+    ],
     "id": "143"
   },
   {
     "name": "MP. ANDRES BELLO",
-    "totals": "261",
-    "percentage": 0,
+    "totals": "26",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -4883,12 +5698,15 @@
     "dependency": [
       "495"
     ],
+    "dependencyNames": [
+      "CM. LA AZULITA"
+    ],
     "id": "144"
   },
   {
     "name": "MP. ARZOBISPO CHACON",
-    "totals": "241",
-    "percentage": 0,
+    "totals": "24",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -4921,12 +5739,21 @@
       "502",
       "501"
     ],
+    "dependencyNames": [
+      "CM. CANAGUA",
+      "PQ. CAPURI",
+      "PQ. CHACANTA",
+      "PQ. EL MOLINO",
+      "PQ. GUAIMARAL",
+      "PQ. MUCUCHACHI",
+      "PQ. MUCUTUY"
+    ],
     "id": "145"
   },
   {
     "name": "MP. CAMPO ELIAS",
-    "totals": "1031",
-    "percentage": 0,
+    "totals": "103",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -4959,12 +5786,21 @@
       "507",
       "506"
     ],
+    "dependencyNames": [
+      "PQ. ACEQUIAS",
+      "PQ. FERNANDEZ PEÑA",
+      "PQ. JAJI",
+      "PQ. LA MESA",
+      "PQ. MATRIZ",
+      "PQ. MONTALBAN",
+      "PQ. SAN JOSE"
+    ],
     "id": "146"
   },
   {
     "name": "MP. GUARAQUE",
-    "totals": "131",
-    "percentage": 0,
+    "totals": "13",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -4992,6 +5828,11 @@
       "510",
       "511",
       "512"
+    ],
+    "dependencyNames": [
+      "CM. GUARAQUE",
+      "PQ. MESA DE QUINTERO",
+      "PQ. RIO NEGRO"
     ],
     "id": "147"
   },
@@ -5026,6 +5867,10 @@
       "513",
       "514"
     ],
+    "dependencyNames": [
+      "CM. ARAPUEY",
+      "PQ. PALMIRA"
+    ],
     "id": "148"
   },
   {
@@ -5058,6 +5903,10 @@
     "dependency": [
       "515",
       "516"
+    ],
+    "dependencyNames": [
+      "CM. TORONDOY",
+      "PQ. SAN CRISTOBAL DE T"
     ],
     "id": "149"
   },
@@ -5104,12 +5953,28 @@
       "525",
       "518"
     ],
+    "dependencyNames": [
+      "PQ. ANTONIO SPINETTI DINI",
+      "PQ. ARIAS",
+      "PQ. CARACCIOLO PARRA P",
+      "PQ. DOMINGO PEÑA",
+      "PQ. EL LLANO",
+      "PQ. EL MORRO",
+      "PQ. GONZALO PICON FEBRES",
+      "PQ. JACINTO PLAZA",
+      "PQ. JUAN RODRIGUEZ SUAREZ",
+      "PQ. LASSO DE LA VEGA",
+      "PQ. MARIANO PICON SALAS",
+      "PQ. MILLA",
+      "PQ. OSUNA RODRIGUEZ",
+      "PQ. SAGRARIO"
+    ],
     "id": "150"
   },
   {
     "name": "MP. SANTOS MARQUINA",
-    "totals": "171",
-    "percentage": 0,
+    "totals": "17",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5135,6 +6000,9 @@
     ],
     "dependency": [
       "532"
+    ],
+    "dependencyNames": [
+      "CM. TABAY"
     ],
     "id": "151"
   },
@@ -5171,12 +6039,18 @@
       "536",
       "535"
     ],
+    "dependencyNames": [
+      "CM. TIMOTES",
+      "PQ. ANDRES ELOY BLANCO",
+      "PQ. LA VENTA",
+      "PQ. PIÑANGO"
+    ],
     "id": "152"
   },
   {
     "name": "MP. ANTONIO PINTO S.",
-    "totals": "331",
-    "percentage": 0,
+    "totals": "33",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5205,12 +6079,17 @@
       "538",
       "539"
     ],
+    "dependencyNames": [
+      "CM. STA CRUZ DE MORA",
+      "PQ. MESA BOLIVAR",
+      "PQ. MESA DE LAS PALMAS"
+    ],
     "id": "153"
   },
   {
     "name": "MP.OB. RAMOS DE LORA",
-    "totals": "331",
-    "percentage": 0,
+    "totals": "33",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5239,12 +6118,17 @@
       "541",
       "542"
     ],
+    "dependencyNames": [
+      "CM. STA ELENA DE ARENALES",
+      "PQ. ELOY PAREDES",
+      "PQ. SAN RAFAEL DE A."
+    ],
     "id": "154"
   },
   {
     "name": "MP. CARACCIOLO PARRA",
-    "totals": "281",
-    "percentage": 0,
+    "totals": "28",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5272,12 +6156,16 @@
       "543",
       "544"
     ],
+    "dependencyNames": [
+      "CM. TUCANI",
+      "PQ. FLORENCIO RAMIREZ"
+    ],
     "id": "155"
   },
   {
     "name": "MP.CARDENAL QUINTERO",
-    "totals": "141",
-    "percentage": 0,
+    "totals": "14",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5305,12 +6193,16 @@
       "545",
       "546"
     ],
+    "dependencyNames": [
+      "CM. SANTO DOMINGO",
+      "PQ. LAS PIEDRAS"
+    ],
     "id": "156"
   },
   {
     "name": "MP. PUEBLO LLANO",
-    "totals": "121",
-    "percentage": 0,
+    "totals": "12",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5336,6 +6228,9 @@
     ],
     "dependency": [
       "547"
+    ],
+    "dependencyNames": [
+      "CM. PUEBLO LLANO"
     ],
     "id": "157"
   },
@@ -5373,12 +6268,19 @@
       "549",
       "550"
     ],
+    "dependencyNames": [
+      "CM. MUCUCHIES",
+      "PQ. CACUTE",
+      "PQ. LA TOMA",
+      "PQ. MUCURUBA",
+      "PQ. SAN RAFAEL"
+    ],
     "id": "158"
   },
   {
     "name": "MP. RIVAS DAVILA",
-    "totals": "221",
-    "percentage": 0,
+    "totals": "22",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5405,6 +6307,10 @@
     "dependency": [
       "553",
       "554"
+    ],
+    "dependencyNames": [
+      "CM. BAILADORES",
+      "PQ. GERONIMO MALDONADO"
     ],
     "id": "159"
   },
@@ -5443,6 +6349,14 @@
       "559",
       "558"
     ],
+    "dependencyNames": [
+      "CM. LAGUNILLAS",
+      "PQ. CHIGUARA",
+      "PQ. ESTANQUES",
+      "PQ. LA TRAMPA",
+      "PQ. PUEBLO NUEVO DEL SUR",
+      "PQ. SAN JUAN"
+    ],
     "id": "160"
   },
   {
@@ -5477,6 +6391,12 @@
       "561",
       "564",
       "562"
+    ],
+    "dependencyNames": [
+      "PQ. EL AMPARO",
+      "PQ. EL LLANO",
+      "PQ. SAN FRANCISCO",
+      "PQ. TOVAR"
     ],
     "id": "161"
   },
@@ -5513,12 +6433,18 @@
       "567",
       "568"
     ],
+    "dependencyNames": [
+      "CM. NUEVA BOLIVIA",
+      "PQ. INDEPENDENCIA",
+      "PQ. MARIA C PALACIOS",
+      "PQ. SANTA APOLONIA"
+    ],
     "id": "162"
   },
   {
     "name": "MP. PADRE NOGUERA",
-    "totals": "41",
-    "percentage": 0,
+    "totals": "4",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5545,12 +6471,15 @@
     "dependency": [
       "569"
     ],
+    "dependencyNames": [
+      "CM. STA MARIA DE CAPARO"
+    ],
     "id": "163"
   },
   {
     "name": "MP. ARICAGUA",
-    "totals": "61",
-    "percentage": 0,
+    "totals": "6",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5578,12 +6507,16 @@
       "570",
       "571"
     ],
+    "dependencyNames": [
+      "CM. ARICAGUA",
+      "PQ. SAN ANTONIO"
+    ],
     "id": "164"
   },
   {
     "name": "MP. ZEA",
-    "totals": "151",
-    "percentage": 0,
+    "totals": "15",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -5610,6 +6543,10 @@
     "dependency": [
       "572",
       "573"
+    ],
+    "dependencyNames": [
+      "CM. ZEA",
+      "PQ. CAÑO EL TIGRE"
     ],
     "id": "165"
   },
@@ -5650,6 +6587,16 @@
       "578",
       "579"
     ],
+    "dependencyNames": [
+      "PQ. ARAGUITA",
+      "PQ. AREVALO GONZALEZ",
+      "PQ. CAPAYA",
+      "PQ. CAUCAGUA",
+      "PQ. EL CAFE",
+      "PQ. MARIZAPA",
+      "PQ. PANAQUIRE",
+      "PQ. RIBAS"
+    ],
     "id": "166"
   },
   {
@@ -5683,6 +6630,11 @@
       "583",
       "582",
       "584"
+    ],
+    "dependencyNames": [
+      "PQ. CURIEPE",
+      "PQ. HIGUEROTE",
+      "PQ. TACARIGUA"
     ],
     "id": "167"
   },
@@ -5722,6 +6674,15 @@
       "588",
       "589"
     ],
+    "dependencyNames": [
+      "PQ. ALTAGRACIA DE LA M",
+      "PQ. CECILIO ACOSTA",
+      "PQ. EL JARILLO",
+      "PQ. LOS TEQUES",
+      "PQ. PARACOTOS",
+      "PQ. SAN PEDRO",
+      "PQ. TACATA"
+    ],
     "id": "168"
   },
   {
@@ -5754,6 +6715,10 @@
     "dependency": [
       "593",
       "592"
+    ],
+    "dependencyNames": [
+      "PQ. EL CARTANAL",
+      "PQ. STA TERESA DEL TUY"
     ],
     "id": "169"
   },
@@ -5788,6 +6753,11 @@
       "595",
       "594",
       "596"
+    ],
+    "dependencyNames": [
+      "PQ. LA DEMOCRACIA",
+      "PQ. OCUMARE DEL TUY",
+      "PQ. SANTA BARBARA"
     ],
     "id": "170"
   },
@@ -5825,6 +6795,13 @@
       "601",
       "599"
     ],
+    "dependencyNames": [
+      "PQ. EL GUAPO",
+      "PQ. PAPARO",
+      "PQ. RIO CHICO",
+      "PQ. SN FERNANDO DEL GUAPO",
+      "PQ.TACARIGUA DE LA LAGUNA"
+    ],
     "id": "171"
   },
   {
@@ -5857,6 +6834,9 @@
     "dependency": [
       "602"
     ],
+    "dependencyNames": [
+      "PQ. SANTA LUCIA"
+    ],
     "id": "172"
   },
   {
@@ -5888,6 +6868,9 @@
     ],
     "dependency": [
       "603"
+    ],
+    "dependencyNames": [
+      "PQ. GUARENAS"
     ],
     "id": "173"
   },
@@ -5924,6 +6907,12 @@
       "605",
       "604"
     ],
+    "dependencyNames": [
+      "PQ. FILAS DE MARICHE",
+      "PQ. LA DOLORITA",
+      "PQ. LEONCIO MARTINEZ",
+      "PQ. PETARE"
+    ],
     "id": "174"
   },
   {
@@ -5956,6 +6945,10 @@
     "dependency": [
       "609",
       "610"
+    ],
+    "dependencyNames": [
+      "PQ. CUA",
+      "PQ. NUEVA CUA"
     ],
     "id": "175"
   },
@@ -5990,6 +6983,10 @@
       "612",
       "611"
     ],
+    "dependencyNames": [
+      "PQ. BOLIVAR",
+      "PQ. GUATIRE"
+    ],
     "id": "176"
   },
   {
@@ -6023,6 +7020,10 @@
       "613",
       "614"
     ],
+    "dependencyNames": [
+      "PQ. CHARALLAVE",
+      "PQ. LAS BRISAS"
+    ],
     "id": "177"
   },
   {
@@ -6054,6 +7055,9 @@
     ],
     "dependency": [
       "615"
+    ],
+    "dependencyNames": [
+      "PQ. SAN ANTONIO LOS ALTOS"
     ],
     "id": "178"
   },
@@ -6088,6 +7092,10 @@
       "617",
       "616"
     ],
+    "dependencyNames": [
+      "PQ. CUMBO",
+      "PQ.SAN JOSE DE BARLOVENTO"
+    ],
     "id": "179"
   },
   {
@@ -6120,6 +7128,10 @@
     "dependency": [
       "619",
       "618"
+    ],
+    "dependencyNames": [
+      "PQ. S ANTONIO DE YARE",
+      "PQ. SAN FCO DE YARE"
     ],
     "id": "180"
   },
@@ -6155,6 +7167,11 @@
       "621",
       "622"
     ],
+    "dependencyNames": [
+      "PQ. BARUTA",
+      "PQ. EL CAFETAL",
+      "PQ. LAS MINAS DE BARUTA"
+    ],
     "id": "181"
   },
   {
@@ -6186,6 +7203,9 @@
     ],
     "dependency": [
       "623"
+    ],
+    "dependencyNames": [
+      "PQ. CARRIZAL"
     ],
     "id": "182"
   },
@@ -6219,6 +7239,9 @@
     "dependency": [
       "624"
     ],
+    "dependencyNames": [
+      "PQ. CHACAO"
+    ],
     "id": "183"
   },
   {
@@ -6251,6 +7274,9 @@
     "dependency": [
       "625"
     ],
+    "dependencyNames": [
+      "PQ. EL HATILLO"
+    ],
     "id": "184"
   },
   {
@@ -6282,6 +7308,9 @@
     ],
     "dependency": [
       "626"
+    ],
+    "dependencyNames": [
+      "PQ. MAMPORAL"
     ],
     "id": "185"
   },
@@ -6316,6 +7345,10 @@
       "627",
       "628"
     ],
+    "dependencyNames": [
+      "PQ. CUPIRA",
+      "PQ. MACHURUCUTO"
+    ],
     "id": "186"
   },
   {
@@ -6349,6 +7382,10 @@
       "629",
       "630"
     ],
+    "dependencyNames": [
+      "CM. SAN ANTONIO",
+      "PQ. SAN FRANCISCO"
+    ],
     "id": "187"
   },
   {
@@ -6380,6 +7417,9 @@
     ],
     "dependency": [
       "631"
+    ],
+    "dependencyNames": [
+      "CM. CARIPITO"
     ],
     "id": "188"
   },
@@ -6418,6 +7458,14 @@
       "635",
       "633"
     ],
+    "dependencyNames": [
+      "CM. CARIPE",
+      "PQ. EL GUACHARO",
+      "PQ. LA GUANOTA",
+      "PQ. SABANA DE PIEDRA",
+      "PQ. SAN AGUSTIN",
+      "PQ. TERESEN"
+    ],
     "id": "189"
   },
   {
@@ -6453,6 +7501,12 @@
       "640",
       "641"
     ],
+    "dependencyNames": [
+      "CM. CAICARA",
+      "PQ. AREO",
+      "PQ. SAN FELIX",
+      "PQ. VIENTO FRESCO"
+    ],
     "id": "190"
   },
   {
@@ -6485,6 +7539,10 @@
     "dependency": [
       "642",
       "643"
+    ],
+    "dependencyNames": [
+      "CM. PUNTA DE MATA",
+      "PQ. EL TEJERO"
     ],
     "id": "191"
   },
@@ -6520,6 +7578,12 @@
       "647",
       "646",
       "645"
+    ],
+    "dependencyNames": [
+      "CM. TEMBLADOR",
+      "PQ. CHAGUARAMAS",
+      "PQ. LAS ALHUACAS",
+      "PQ. TABASCA"
     ],
     "id": "192"
   },
@@ -6562,6 +7626,18 @@
       "651",
       "656"
     ],
+    "dependencyNames": [
+      "C.M. MATURIN",
+      "PQ. ALTOS DE LOS GODOS",
+      "PQ. BOQUERON",
+      "PQ. EL COROZO",
+      "PQ. JUSEPIN",
+      "PQ. LA PICA",
+      "PQ. LAS COCUIZAS",
+      "PQ. SAN SIMON",
+      "PQ. SAN VICENTE",
+      "PQ. SANTA CRUZ"
+    ],
     "id": "193"
   },
   {
@@ -6600,6 +7676,15 @@
       "665",
       "663"
     ],
+    "dependencyNames": [
+      "CM. ARAGUA",
+      "PQ. APARICIO",
+      "PQ. CHAGUARAMAL",
+      "PQ. EL PINTO",
+      "PQ. GUANAGUANA",
+      "PQ. LA TOSCANA",
+      "PQ. TAGUAYA"
+    ],
     "id": "194"
   },
   {
@@ -6633,6 +7718,10 @@
       "666",
       "667"
     ],
+    "dependencyNames": [
+      "CM. QUIRIQUIRE",
+      "PQ. CACHIPO"
+    ],
     "id": "195"
   },
   {
@@ -6664,6 +7753,9 @@
     ],
     "dependency": [
       "668"
+    ],
+    "dependencyNames": [
+      "CM. BARRANCAS"
     ],
     "id": "196"
   },
@@ -6697,12 +7789,15 @@
     "dependency": [
       "670"
     ],
+    "dependencyNames": [
+      "CM. AGUASAY"
+    ],
     "id": "197"
   },
   {
     "name": "MP. SANTA BARBARA",
-    "totals": "141",
-    "percentage": 0,
+    "totals": "14",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -6729,12 +7824,15 @@
     "dependency": [
       "671"
     ],
+    "dependencyNames": [
+      "CM. SANTA BARBARA"
+    ],
     "id": "198"
   },
   {
     "name": "MP. URACOA",
-    "totals": "191",
-    "percentage": 0,
+    "totals": "19",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -6760,6 +7858,9 @@
     ],
     "dependency": [
       "672"
+    ],
+    "dependencyNames": [
+      "CM. URACOA"
     ],
     "id": "199"
   },
@@ -6792,6 +7893,9 @@
     ],
     "dependency": [
       "673"
+    ],
+    "dependencyNames": [
+      "CM. LA ASUNCION"
     ],
     "id": "200"
   },
@@ -6826,12 +7930,16 @@
       "674",
       "675"
     ],
+    "dependencyNames": [
+      "CM. SAN JUAN BAUTISTA",
+      "PQ. ZABALA"
+    ],
     "id": "201"
   },
   {
     "name": "MP. GOMEZ",
-    "totals": "461",
-    "percentage": 0,
+    "totals": "46",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -6861,6 +7969,13 @@
       "677",
       "678",
       "680"
+    ],
+    "dependencyNames": [
+      "CM. SANTA ANA",
+      "PQ. BOLIVAR",
+      "PQ. GUEVARA",
+      "PQ. MATASIETE",
+      "PQ. SUCRE"
     ],
     "id": "202"
   },
@@ -6895,6 +8010,10 @@
       "681",
       "682"
     ],
+    "dependencyNames": [
+      "CM. PAMPATAR",
+      "PQ. AGUIRRE"
+    ],
     "id": "203"
   },
   {
@@ -6928,6 +8047,10 @@
       "683",
       "684"
     ],
+    "dependencyNames": [
+      "CM. JUAN GRIEGO",
+      "PQ. ADRIAN"
+    ],
     "id": "204"
   },
   {
@@ -6959,6 +8082,9 @@
     ],
     "dependency": [
       "685"
+    ],
+    "dependencyNames": [
+      "CM. PORLAMAR"
     ],
     "id": "205"
   },
@@ -6993,6 +8119,10 @@
       "686",
       "687"
     ],
+    "dependencyNames": [
+      "CM. BOCA DEL RIO",
+      "PQ. SAN FRANCISCO"
+    ],
     "id": "206"
   },
   {
@@ -7025,6 +8155,10 @@
     "dependency": [
       "688",
       "689"
+    ],
+    "dependencyNames": [
+      "CM. SAN PEDRO DE COCHE",
+      "PQ. VICENTE FUENTES"
     ],
     "id": "207"
   },
@@ -7059,6 +8193,10 @@
       "690",
       "691"
     ],
+    "dependencyNames": [
+      "CM. PUNTA DE PIEDRAS",
+      "PQ. LOS BARALES"
+    ],
     "id": "208"
   },
   {
@@ -7090,6 +8228,9 @@
     ],
     "dependency": [
       "692"
+    ],
+    "dependencyNames": [
+      "CM.LA PLAZA DE PARAGUACHI"
     ],
     "id": "209"
   },
@@ -7124,6 +8265,10 @@
       "693",
       "694"
     ],
+    "dependencyNames": [
+      "CM. VALLE ESP SANTO",
+      "PQ. FRANCISCO FAJARDO"
+    ],
     "id": "210"
   },
   {
@@ -7157,6 +8302,10 @@
       "695",
       "696"
     ],
+    "dependencyNames": [
+      "CM. ARAURE",
+      "PQ. RIO ACARIGUA"
+    ],
     "id": "211"
   },
   {
@@ -7189,6 +8338,10 @@
     "dependency": [
       "697",
       "698"
+    ],
+    "dependencyNames": [
+      "CM. PIRITU",
+      "PQ. UVERAL"
     ],
     "id": "212"
   },
@@ -7226,6 +8379,13 @@
       "703",
       "701"
     ],
+    "dependencyNames": [
+      "CM. GUANARE",
+      "PQ. CORDOBA",
+      "PQ. VIRGEN DE LA COROMOTO",
+      "PQ.SAN JOSE DE LA MONTAÑA",
+      "PQ.SAN JUAN GUANAGUANARE"
+    ],
     "id": "213"
   },
   {
@@ -7259,6 +8419,11 @@
       "704",
       "706",
       "705"
+    ],
+    "dependencyNames": [
+      "CM. GUANARITO",
+      "PQ. DIVINA PASTORA",
+      "PQ.TRINIDAD DE LA CAPILLA"
     ],
     "id": "214"
   },
@@ -7294,6 +8459,11 @@
       "708",
       "709"
     ],
+    "dependencyNames": [
+      "CM. OSPINO",
+      "PQ. LA APARICION",
+      "PQ. LA ESTACION"
+    ],
     "id": "215"
   },
   {
@@ -7328,6 +8498,12 @@
       "711",
       "712",
       "713"
+    ],
+    "dependencyNames": [
+      "CM. ACARIGUA",
+      "PQ. PAYARA",
+      "PQ. PIMPINELA",
+      "PQ. RAMON PERAZA"
     ],
     "id": "216"
   },
@@ -7366,6 +8542,14 @@
       "719",
       "716"
     ],
+    "dependencyNames": [
+      "CM. BISCUCUY",
+      "PQ. CONCEPCION",
+      "PQ. SAN JOSE DE SAGUAZ",
+      "PQ. UVENCIO A VELASQUEZ",
+      "PQ. VILLA ROSA",
+      "PQ.SAN RAFAEL PALO ALZADO"
+    ],
     "id": "217"
   },
   {
@@ -7401,6 +8585,12 @@
       "723",
       "722"
     ],
+    "dependencyNames": [
+      "CM. VILLA BRUZUAL",
+      "PQ. CANELONES",
+      "PQ. SAN ISIDRO LABRADOR",
+      "PQ. SANTA CRUZ"
+    ],
     "id": "218"
   },
   {
@@ -7434,6 +8624,10 @@
       "724",
       "725"
     ],
+    "dependencyNames": [
+      "CM. CHABASQUEN",
+      "PQ. PEÑA BLANCA"
+    ],
     "id": "219"
   },
   {
@@ -7465,6 +8659,9 @@
     ],
     "dependency": [
       "726"
+    ],
+    "dependencyNames": [
+      "CM. AGUA BLANCA"
     ],
     "id": "220"
   },
@@ -7499,6 +8696,10 @@
       "727",
       "728"
     ],
+    "dependencyNames": [
+      "CM. PAPELON",
+      "PQ. CAÑO DELGADITO"
+    ],
     "id": "221"
   },
   {
@@ -7532,12 +8733,16 @@
       "729",
       "730"
     ],
+    "dependencyNames": [
+      "CM. BOCONOITO",
+      "PQ. ANTOLIN TOVAR AQUINO"
+    ],
     "id": "222"
   },
   {
     "name": "MP.S RAFAEL DE ONOTO",
-    "totals": "211",
-    "percentage": 0,
+    "totals": "21",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -7566,12 +8771,17 @@
       "732",
       "733"
     ],
+    "dependencyNames": [
+      "CM. SAN RAFAEL DE ONOTO",
+      "PQ. SANTA FE",
+      "PQ. THERMO MORALES"
+    ],
     "id": "223"
   },
   {
     "name": "MP. SANTA ROSALIA",
-    "totals": "271",
-    "percentage": 0,
+    "totals": "27",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -7598,6 +8808,10 @@
     "dependency": [
       "734",
       "735"
+    ],
+    "dependencyNames": [
+      "CM. EL PLAYON",
+      "PQ. FLORIDA"
     ],
     "id": "224"
   },
@@ -7634,6 +8848,13 @@
       "738",
       "736",
       "737"
+    ],
+    "dependencyNames": [
+      "PQ. ANTONIO JOSE DE SUCRE",
+      "PQ. EL MORRO DE PTO SANTO",
+      "PQ. PUERTO SANTO",
+      "PQ. RIO CARIBE",
+      "PQ. SAN JUAN DE LAS GALDO"
     ],
     "id": "225"
   },
@@ -7672,6 +8893,14 @@
       "744",
       "745"
     ],
+    "dependencyNames": [
+      "PQ. EL PILAR",
+      "PQ. EL RINCON",
+      "PQ. GRAL FCO. A VASQUEZ",
+      "PQ. GUARAUNOS",
+      "PQ. TUNAPUICITO",
+      "PQ. UNION"
+    ],
     "id": "226"
   },
   {
@@ -7708,6 +8937,13 @@
       "748",
       "749"
     ],
+    "dependencyNames": [
+      "PQ. BOLIVAR",
+      "PQ. MACARAPANA",
+      "PQ. SANTA CATALINA",
+      "PQ. SANTA ROSA",
+      "PQ. SANTA TERESA"
+    ],
     "id": "227"
   },
   {
@@ -7742,12 +8978,17 @@
       "754",
       "752"
     ],
+    "dependencyNames": [
+      "PQ. LIBERTAD",
+      "PQ. PAUJIL",
+      "PQ. YAGUARAPARO"
+    ],
     "id": "228"
   },
   {
     "name": "MP. MARIÑO",
-    "totals": "331",
-    "percentage": 0,
+    "totals": "33",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -7777,6 +9018,13 @@
       "759",
       "758",
       "757"
+    ],
+    "dependencyNames": [
+      "PQ. CAMPO CLARO",
+      "PQ. IRAPA",
+      "PQ. MARABAL",
+      "PQ. SAN ANTONIO DE IRAPA",
+      "PQ. SORO"
     ],
     "id": "229"
   },
@@ -7809,6 +9057,9 @@
     ],
     "dependency": [
       "760"
+    ],
+    "dependencyNames": [
+      "CM. SAN ANT DEL GOLFO"
     ],
     "id": "230"
   },
@@ -7847,6 +9098,14 @@
       "765",
       "766"
     ],
+    "dependencyNames": [
+      "PQ. ARENAS",
+      "PQ. ARICAGUA",
+      "PQ. COCOLLAR",
+      "PQ. CUMANACOA",
+      "PQ. SAN FERNANDO",
+      "PQ. SAN LORENZO"
+    ],
     "id": "231"
   },
   {
@@ -7882,6 +9141,13 @@
       "769",
       "770",
       "771"
+    ],
+    "dependencyNames": [
+      "PQ. CARIACO",
+      "PQ. CATUARO",
+      "PQ. RENDON",
+      "PQ. SANTA CRUZ",
+      "PQ. SANTA MARIA"
     ],
     "id": "232"
   },
@@ -7921,6 +9187,15 @@
       "775",
       "777"
     ],
+    "dependencyNames": [
+      "PQ. ALTAGRACIA",
+      "PQ. AYACUCHO",
+      "PQ. RAUL LEONI",
+      "PQ. SAN JUAN",
+      "PQ. SANTA INES",
+      "PQ. VALENTIN VALIENTE",
+      "PQ.GRAN MARISCAL"
+    ],
     "id": "233"
   },
   {
@@ -7956,6 +9231,12 @@
       "779",
       "781"
     ],
+    "dependencyNames": [
+      "PQ. BIDEAU",
+      "PQ. CRISTOBAL COLON",
+      "PQ. GUIRIA",
+      "PQ. PUNTA DE PIEDRAS"
+    ],
     "id": "234"
   },
   {
@@ -7989,12 +9270,16 @@
       "783",
       "784"
     ],
+    "dependencyNames": [
+      "PQ. MARIÑO",
+      "PQ. ROMULO GALLEGOS"
+    ],
     "id": "235"
   },
   {
     "name": "MP. LIBERTADOR",
-    "totals": "171",
-    "percentage": 0,
+    "totals": "17",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8021,6 +9306,10 @@
     "dependency": [
       "786",
       "785"
+    ],
+    "dependencyNames": [
+      "PQ. CAMPO ELIAS",
+      "PQ. TUNAPUY"
     ],
     "id": "236"
   },
@@ -8055,6 +9344,10 @@
       "787",
       "788"
     ],
+    "dependencyNames": [
+      "PQ. SAN JOSE DE AEROCUAR",
+      "PQ. TAVERA ACOSTA"
+    ],
     "id": "237"
   },
   {
@@ -8087,12 +9380,15 @@
     "dependency": [
       "789"
     ],
+    "dependencyNames": [
+      "CM. MARIGUITAR"
+    ],
     "id": "238"
   },
   {
     "name": "MP. CRUZ S ACOSTA",
-    "totals": "401",
-    "percentage": 0,
+    "totals": "40",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8120,6 +9416,11 @@
       "790",
       "792",
       "791"
+    ],
+    "dependencyNames": [
+      "PQ. ARAYA",
+      "PQ. CHACOPATA",
+      "PQ. MANICUARE"
     ],
     "id": "239"
   },
@@ -8154,6 +9455,11 @@
       "793",
       "794",
       "795"
+    ],
+    "dependencyNames": [
+      "CM. COLON",
+      "PQ. RIVAS BERTI",
+      "PQ. SAN PEDRO DEL RIO"
     ],
     "id": "240"
   },
@@ -8190,12 +9496,18 @@
       "798",
       "797"
     ],
+    "dependencyNames": [
+      "CM. SAN ANT DEL TACHIRA",
+      "PQ. ISAIAS MEDINA ANGARIT",
+      "PQ. JUAN VICENTE GOMEZ",
+      "PQ. PALOTAL"
+    ],
     "id": "241"
   },
   {
     "name": "MP. CAPACHO NUEVO",
-    "totals": "421",
-    "percentage": 0,
+    "totals": "42",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8223,6 +9535,11 @@
       "800",
       "801",
       "802"
+    ],
+    "dependencyNames": [
+      "CM. CAPACHO NUEVO",
+      "PQ. JUAN GERMAN ROSCIO",
+      "PQ. ROMAN CARDENAS"
     ],
     "id": "242"
   },
@@ -8257,12 +9574,16 @@
       "803",
       "805"
     ],
+    "dependencyNames": [
+      "CM. TARIBA",
+      "PQ. AMENODORO RANGEL LAMU"
+    ],
     "id": "243"
   },
   {
     "name": "MP. JAUREGUI",
-    "totals": "451",
-    "percentage": 0,
+    "totals": "45",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8290,6 +9611,11 @@
       "806",
       "807",
       "808"
+    ],
+    "dependencyNames": [
+      "CM. LA GRITA",
+      "PQ. EMILIO C. GUERRERO",
+      "PQ. MONS. MIGUEL A SALAS"
     ],
     "id": "244"
   },
@@ -8326,12 +9652,18 @@
       "811",
       "812"
     ],
+    "dependencyNames": [
+      "CM. RUBIO",
+      "PQ. BRAMON",
+      "PQ. LA PETROLEA",
+      "PQ. QUINIMARI"
+    ],
     "id": "245"
   },
   {
     "name": "MP. LOBATERA",
-    "totals": "181",
-    "percentage": 0,
+    "totals": "18",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8358,6 +9690,10 @@
     "dependency": [
       "813",
       "814"
+    ],
+    "dependencyNames": [
+      "CM. LOBATERA",
+      "PQ. CONSTITUCION"
     ],
     "id": "246"
   },
@@ -8395,6 +9731,13 @@
       "818",
       "817"
     ],
+    "dependencyNames": [
+      "PQ. DR. FCO. ROMERO LOBO",
+      "PQ. LA CONCORDIA",
+      "PQ. PEDRO MARIA MORANTES",
+      "PQ. SAN SEBASTIAN",
+      "PQ. SN JUAN BAUTISTA"
+    ],
     "id": "247"
   },
   {
@@ -8430,6 +9773,12 @@
       "823",
       "822"
     ],
+    "dependencyNames": [
+      "CM. PREGONERO",
+      "PQ. CARDENAS",
+      "PQ. JUAN PABLO PEÑALOZA",
+      "PQ. POTOSI"
+    ],
     "id": "248"
   },
   {
@@ -8461,6 +9810,9 @@
     ],
     "dependency": [
       "824"
+    ],
+    "dependencyNames": [
+      "CM. STA. ANA  DEL TACHIRA"
     ],
     "id": "249"
   },
@@ -8496,12 +9848,17 @@
       "826",
       "827"
     ],
+    "dependencyNames": [
+      "CM. LA FRIA",
+      "PQ. BOCA DE GRITA",
+      "PQ. JOSE ANTONIO PAEZ"
+    ],
     "id": "250"
   },
   {
     "name": "MP. GUASIMOS",
-    "totals": "391",
-    "percentage": 0,
+    "totals": "39",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8527,6 +9884,9 @@
     ],
     "dependency": [
       "828"
+    ],
+    "dependencyNames": [
+      "CM. PALMIRA"
     ],
     "id": "251"
   },
@@ -8560,12 +9920,15 @@
     "dependency": [
       "829"
     ],
+    "dependencyNames": [
+      "CM. MICHELENA"
+    ],
     "id": "252"
   },
   {
     "name": "MP. LIBERTADOR",
-    "totals": "291",
-    "percentage": 0,
+    "totals": "29",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8594,6 +9957,12 @@
       "832",
       "833",
       "831"
+    ],
+    "dependencyNames": [
+      "CM. ABEJALES",
+      "PQ. DORADAS",
+      "PQ. EMETERIO OCHOA",
+      "PQ. SAN JOAQUIN DE NAVAY"
     ],
     "id": "253"
   },
@@ -8628,6 +9997,10 @@
       "834",
       "835"
     ],
+    "dependencyNames": [
+      "CM. COLONCITO",
+      "PQ. LA PALMITA"
+    ],
     "id": "254"
   },
   {
@@ -8661,12 +10034,16 @@
       "836",
       "837"
     ],
+    "dependencyNames": [
+      "CM. UREÑA",
+      "PQ. NUEVA ARCADIA"
+    ],
     "id": "255"
   },
   {
     "name": "MP. SUCRE",
-    "totals": "191",
-    "percentage": 0,
+    "totals": "19",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8695,12 +10072,17 @@
       "839",
       "840"
     ],
+    "dependencyNames": [
+      "CM. QUENIQUEA",
+      "PQ. SAN PABLO",
+      "PQ.ELEAZAR LOPEZ CONTRERA"
+    ],
     "id": "256"
   },
   {
     "name": "MP. ANDRES BELLO",
-    "totals": "271",
-    "percentage": 0,
+    "totals": "27",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8727,12 +10109,15 @@
     "dependency": [
       "841"
     ],
+    "dependencyNames": [
+      "CM. CORDERO"
+    ],
     "id": "257"
   },
   {
     "name": "MP. FERNANDEZ FEO",
-    "totals": "481",
-    "percentage": 0,
+    "totals": "48",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8761,12 +10146,17 @@
       "844",
       "843"
     ],
+    "dependencyNames": [
+      "CM.SAN RAFAEL DEL PIÑAL",
+      "PQ. ALBERTO ADRIANI",
+      "PQ. SANTO DOMINGO"
+    ],
     "id": "258"
   },
   {
     "name": "MP. CAPACHO VIEJO",
-    "totals": "341",
-    "percentage": 0,
+    "totals": "34",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8794,6 +10184,11 @@
       "845",
       "846",
       "847"
+    ],
+    "dependencyNames": [
+      "CM. CAPACHO VIEJO",
+      "PQ. CIPRIANO CASTRO",
+      "PQ. MANUEL FELIPE RUGELES"
     ],
     "id": "259"
   },
@@ -8829,12 +10224,17 @@
       "849",
       "850"
     ],
+    "dependencyNames": [
+      "CM. LA TENDIDA",
+      "PQ. BOCONO",
+      "PQ. HERNANDEZ"
+    ],
     "id": "260"
   },
   {
     "name": "MP. SEBORUCO",
-    "totals": "181",
-    "percentage": 0,
+    "totals": "18",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -8860,6 +10260,9 @@
     ],
     "dependency": [
       "851"
+    ],
+    "dependencyNames": [
+      "CM. SEBORUCO"
     ],
     "id": "261"
   },
@@ -8893,6 +10296,9 @@
     "dependency": [
       "852"
     ],
+    "dependencyNames": [
+      "CM. LAS MESAS"
+    ],
     "id": "262"
   },
   {
@@ -8924,6 +10330,9 @@
     ],
     "dependency": [
       "853"
+    ],
+    "dependencyNames": [
+      "CM. SAN JOSE DE BOLIVAR"
     ],
     "id": "263"
   },
@@ -8957,6 +10366,9 @@
     "dependency": [
       "854"
     ],
+    "dependencyNames": [
+      "CM. EL COBRE"
+    ],
     "id": "264"
   },
   {
@@ -8989,12 +10401,15 @@
     "dependency": [
       "855"
     ],
+    "dependencyNames": [
+      "CM. DELICIAS"
+    ],
     "id": "265"
   },
   {
     "name": "MP. SIMON RODRIGUEZ",
-    "totals": "41",
-    "percentage": 0,
+    "totals": "4",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9021,12 +10436,15 @@
     "dependency": [
       "856"
     ],
+    "dependencyNames": [
+      "CM. SAN SIMON"
+    ],
     "id": "266"
   },
   {
     "name": "MP. TORBES",
-    "totals": "441",
-    "percentage": 0,
+    "totals": "44",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9053,12 +10471,15 @@
     "dependency": [
       "857"
     ],
+    "dependencyNames": [
+      "CM. SAN JOSECITO"
+    ],
     "id": "267"
   },
   {
     "name": "MP. SAN JUDAS TADEO",
-    "totals": "131",
-    "percentage": 0,
+    "totals": "13",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9085,12 +10506,15 @@
     "dependency": [
       "858"
     ],
+    "dependencyNames": [
+      "CM. UMUQUENA"
+    ],
     "id": "268"
   },
   {
     "name": "MP. RAFAEL RANGEL",
-    "totals": "241",
-    "percentage": 0,
+    "totals": "24",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9119,6 +10543,12 @@
       "862",
       "860",
       "861"
+    ],
+    "dependencyNames": [
+      "PQ. BETIJOQUE",
+      "PQ. EL CEDRO",
+      "PQ. JOSE G HERNANDEZ",
+      "PQ. LA PUEBLITA"
     ],
     "id": "269"
   },
@@ -9163,6 +10593,20 @@
       "871",
       "872"
     ],
+    "dependencyNames": [
+      "PQ. AYACUCHO",
+      "PQ. BOCONO",
+      "PQ. BURBUSAY",
+      "PQ. EL CARMEN",
+      "PQ. GENERAL RIVAS",
+      "PQ. GUARAMACAL",
+      "PQ. LA VEGA DE GUARAMACAL",
+      "PQ. MONSEÑOR JAUREGUI",
+      "PQ. MOSQUEY",
+      "PQ. RAFAEL RANGEL",
+      "PQ. SAN JOSE",
+      "PQ. SAN MIGUEL"
+    ],
     "id": "270"
   },
   {
@@ -9199,6 +10643,13 @@
       "878",
       "879"
     ],
+    "dependencyNames": [
+      "PQ. CARACHE",
+      "PQ. CUICAS",
+      "PQ. LA CONCEPCION",
+      "PQ. PANAMERICANA",
+      "PQ. SANTA CRUZ"
+    ],
     "id": "271"
   },
   {
@@ -9233,6 +10684,12 @@
       "882",
       "881",
       "883"
+    ],
+    "dependencyNames": [
+      "PQ. ESCUQUE",
+      "PQ. LA UNION",
+      "PQ. SABANA LIBRE",
+      "PQ. SANTA RITA"
     ],
     "id": "272"
   },
@@ -9272,12 +10729,21 @@
       "887",
       "890"
     ],
+    "dependencyNames": [
+      "PQ. ANDRES LINARES",
+      "PQ. CHIQUINQUIRA",
+      "PQ. CRISTOBAL MENDOZA",
+      "PQ. CRUZ CARRILLO",
+      "PQ. MATRIZ",
+      "PQ. MONSEÑOR CARRILLO",
+      "PQ. TRES ESQUINAS"
+    ],
     "id": "273"
   },
   {
     "name": "MP. URDANETA",
-    "totals": "531",
-    "percentage": 0,
+    "totals": "53",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9308,6 +10774,14 @@
       "891",
       "894",
       "896"
+    ],
+    "dependencyNames": [
+      "PQ. CABIMBU",
+      "PQ. JAJO",
+      "PQ. LA MESA",
+      "PQ. LA QUEBRADA",
+      "PQ. SANTIAGO",
+      "PQ. TUÑAME"
     ],
     "id": "274"
   },
@@ -9345,6 +10819,14 @@
       "900",
       "897",
       "902"
+    ],
+    "dependencyNames": [
+      "PQ. JUAN IGNACIO MONTILLA",
+      "PQ. LA BEATRIZ",
+      "PQ. LA PUERTA",
+      "PQ. MENDOZA",
+      "PQ. MERCEDES DIAZ",
+      "PQ. SAN LUIS"
     ],
     "id": "275"
   },
@@ -9384,12 +10866,21 @@
       "907",
       "908"
     ],
+    "dependencyNames": [
+      "PQ. ARNOLDO GABALDON",
+      "PQ. BOLIVIA",
+      "PQ. CARRILLO",
+      "PQ. CEGARRA",
+      "PQ. CHEJENDE",
+      "PQ. MANUEL SALVADOR ULLOA",
+      "PQ. SAN JOSE"
+    ],
     "id": "276"
   },
   {
     "name": "MP. MIRANDA",
-    "totals": "241",
-    "percentage": 0,
+    "totals": "24",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9420,12 +10911,19 @@
       "910",
       "914"
     ],
+    "dependencyNames": [
+      "PQ. AGUA CALIENTE",
+      "PQ. AGUA SANTA",
+      "PQ. EL CENIZO",
+      "PQ. EL DIVIDIVE",
+      "PQ. VALERITA"
+    ],
     "id": "277"
   },
   {
     "name": "MP. MONTE CARMELO",
-    "totals": "271",
-    "percentage": 0,
+    "totals": "27",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9454,12 +10952,17 @@
       "915",
       "917"
     ],
+    "dependencyNames": [
+      "PQ. BUENA VISTA",
+      "PQ. MONTE CARMELO",
+      "PQ. STA MARIA DEL HORCON"
+    ],
     "id": "278"
   },
   {
     "name": "MP. MOTATAN",
-    "totals": "231",
-    "percentage": 0,
+    "totals": "23",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9487,6 +10990,11 @@
       "919",
       "920",
       "918"
+    ],
+    "dependencyNames": [
+      "PQ. EL BAÑO",
+      "PQ. JALISCO",
+      "PQ. MOTATAN"
     ],
     "id": "279"
   },
@@ -9523,12 +11031,18 @@
       "921",
       "922"
     ],
+    "dependencyNames": [
+      "PQ. FLOR DE PATRIA",
+      "PQ. LA PAZ",
+      "PQ. PAMPAN",
+      "PQ. SANTA ANA"
+    ],
     "id": "280"
   },
   {
     "name": "MP.S RAFAEL CARVAJAL",
-    "totals": "551",
-    "percentage": 0,
+    "totals": "55",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9558,12 +11072,18 @@
       "925",
       "928"
     ],
+    "dependencyNames": [
+      "PQ. ANTONIO N BRICEÑO",
+      "PQ. CAMPO ALEGRE",
+      "PQ. CARVAJAL",
+      "PQ. JOSE LEONARDO SUAREZ"
+    ],
     "id": "281"
   },
   {
     "name": "MP. SUCRE",
-    "totals": "351",
-    "percentage": 0,
+    "totals": "35",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9592,6 +11112,12 @@
       "930",
       "929",
       "931"
+    ],
+    "dependencyNames": [
+      "PQ. EL PARAISO",
+      "PQ. JUNIN",
+      "PQ. SABANA DE MENDOZA",
+      "PQ. VALMORE RODRIGUEZ"
     ],
     "id": "282"
   },
@@ -9628,6 +11154,12 @@
       "936",
       "933"
     ],
+    "dependencyNames": [
+      "PQ. ARAGUANEY",
+      "PQ. EL JAGUITO",
+      "PQ. LA ESPERANZA",
+      "PQ. SANTA ISABEL"
+    ],
     "id": "283"
   },
   {
@@ -9662,12 +11194,17 @@
       "939",
       "937"
     ],
+    "dependencyNames": [
+      "PQ. CHEREGUE",
+      "PQ. GRANADOS",
+      "PQ. SABANA GRANDE"
+    ],
     "id": "284"
   },
   {
     "name": "MP. J.F.MARQUEZ C.",
-    "totals": "81",
-    "percentage": 0,
+    "totals": "8",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9695,6 +11232,11 @@
       "942",
       "940",
       "941"
+    ],
+    "dependencyNames": [
+      "PQ. ANTONIO JOSE DE SUCRE",
+      "PQ. EL SOCORRO",
+      "PQ. LOS CAPRICHOS"
     ],
     "id": "285"
   },
@@ -9729,12 +11271,16 @@
       "944",
       "943"
     ],
+    "dependencyNames": [
+      "PQ. ARNOLDO GABALDON",
+      "PQ. CAMPO ELIAS"
+    ],
     "id": "286"
   },
   {
     "name": "MP. LA CEIBA",
-    "totals": "261",
-    "percentage": 0,
+    "totals": "26",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9764,12 +11310,18 @@
       "945",
       "948"
     ],
+    "dependencyNames": [
+      "PQ. EL PROGRESO",
+      "PQ. LA CEIBA",
+      "PQ. SANTA APOLONIA",
+      "PQ. TRES DE FEBRERO"
+    ],
     "id": "287"
   },
   {
     "name": "MP. PAMPANITO",
-    "totals": "301",
-    "percentage": 0,
+    "totals": "30",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9797,6 +11349,11 @@
       "951",
       "949",
       "950"
+    ],
+    "dependencyNames": [
+      "PQ. LA CONCEPCION",
+      "PQ. PAMPANITO",
+      "PQ. PAMPANITO II"
     ],
     "id": "288"
   },
@@ -9830,12 +11387,15 @@
     "dependency": [
       "952"
     ],
+    "dependencyNames": [
+      "CM. AROA"
+    ],
     "id": "289"
   },
   {
     "name": "MP. BRUZUAL",
-    "totals": "791",
-    "percentage": 0,
+    "totals": "79",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -9862,6 +11422,10 @@
     "dependency": [
       "953",
       "954"
+    ],
+    "dependencyNames": [
+      "CM. CHIVACOA",
+      "PQ. CAMPO ELIAS"
     ],
     "id": "290"
   },
@@ -9897,6 +11461,11 @@
       "956",
       "957"
     ],
+    "dependencyNames": [
+      "CM. NIRGUA",
+      "PQ. SALOM",
+      "PQ. TEMERLA"
+    ],
     "id": "291"
   },
   {
@@ -9931,6 +11500,11 @@
       "959",
       "960"
     ],
+    "dependencyNames": [
+      "CM. SAN FELIPE",
+      "PQ. ALBARICO",
+      "PQ. SAN JAVIER"
+    ],
     "id": "292"
   },
   {
@@ -9963,6 +11537,9 @@
     "dependency": [
       "961"
     ],
+    "dependencyNames": [
+      "CM. GUAMA"
+    ],
     "id": "293"
   },
   {
@@ -9994,6 +11571,9 @@
     ],
     "dependency": [
       "962"
+    ],
+    "dependencyNames": [
+      "CM. URACHICHE"
     ],
     "id": "294"
   },
@@ -10028,12 +11608,16 @@
       "963",
       "964"
     ],
+    "dependencyNames": [
+      "CM. YARITAGUA",
+      "PQ. SAN ANDRES"
+    ],
     "id": "295"
   },
   {
     "name": "MP.JOSE ANTONIO PAEZ",
-    "totals": "251",
-    "percentage": 0,
+    "totals": "25",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -10060,12 +11644,15 @@
     "dependency": [
       "965"
     ],
+    "dependencyNames": [
+      "CM. SABANA DE PARRA"
+    ],
     "id": "296"
   },
   {
     "name": "MP. LA TRINIDAD",
-    "totals": "191",
-    "percentage": 0,
+    "totals": "19",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -10092,12 +11679,15 @@
     "dependency": [
       "966"
     ],
+    "dependencyNames": [
+      "CM. BORAURE"
+    ],
     "id": "297"
   },
   {
     "name": "MP. COCOROTE",
-    "totals": "431",
-    "percentage": 0,
+    "totals": "43",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -10123,6 +11713,9 @@
     ],
     "dependency": [
       "967"
+    ],
+    "dependencyNames": [
+      "CM. COCOROTE"
     ],
     "id": "298"
   },
@@ -10156,6 +11749,9 @@
     "dependency": [
       "968"
     ],
+    "dependencyNames": [
+      "CM. INDEPENDENCIA"
+    ],
     "id": "299"
   },
   {
@@ -10188,12 +11784,15 @@
     "dependency": [
       "969"
     ],
+    "dependencyNames": [
+      "CM. SAN PABLO"
+    ],
     "id": "300"
   },
   {
     "name": "MP. MANUEL MONGE",
-    "totals": "271",
-    "percentage": 0,
+    "totals": "27",
+    "percentage": 100,
     "results": [
       {
         "candidate": "Edmundo González",
@@ -10219,6 +11818,9 @@
     ],
     "dependency": [
       "970"
+    ],
+    "dependencyNames": [
+      "CM. YUMARE"
     ],
     "id": "301"
   },
@@ -10252,6 +11854,10 @@
     "dependency": [
       "971",
       "972"
+    ],
+    "dependencyNames": [
+      "CM. FARRIAR",
+      "PQ. EL GUAYABO"
     ],
     "id": "302"
   },
@@ -10290,6 +11896,14 @@
       "978",
       "977"
     ],
+    "dependencyNames": [
+      "PQ. GENERAL URDANETA",
+      "PQ. LIBERTADOR",
+      "PQ. MANUEL GUANIPA MATOS",
+      "PQ. MARCELINO BRICEÑO",
+      "PQ. PUEBLO NUEVO",
+      "PQ. SAN TIMOTEO"
+    ],
     "id": "303"
   },
   {
@@ -10323,6 +11937,11 @@
       "982",
       "981",
       "980"
+    ],
+    "dependencyNames": [
+      "PQ. EL MENE",
+      "PQ. JOSE CENOVIO URRIBARR",
+      "PQ. SANTA RITA"
     ],
     "id": "304"
   },
@@ -10360,6 +11979,13 @@
       "983",
       "984"
     ],
+    "dependencyNames": [
+      "PQ. MORALITO",
+      "PQ. SAN CARLOS DEL ZULIA",
+      "PQ. SANTA BARBARA",
+      "PQ. SANTA CRUZ DEL ZULIA",
+      "PQ. URIBARRI"
+    ],
     "id": "305"
   },
   {
@@ -10396,6 +12022,14 @@
       "989",
       "991",
       "993"
+    ],
+    "dependencyNames": [
+      "PQ. LA SIERRITA",
+      "PQ. LAS PARCELAS",
+      "PQ. LUIS DE VICENTE",
+      "PQ. RICAURTE",
+      "PQ. SAN RAFAEL",
+      "PQ. TAMARE"
     ],
     "id": "306"
   },
@@ -10444,6 +12078,24 @@
       "1010",
       "1002"
     ],
+    "dependencyNames": [
+      "PQ. ANTONIO BORJAS ROMERO",
+      "PQ. BOLIVAR",
+      "PQ. CACIQUE MARA",
+      "PQ. CECILIO ACOSTA",
+      "PQ. CHIQUINQUIRA",
+      "PQ. COQUIVACOA",
+      "PQ. CRISTO DE ARANZA",
+      "PQ. FRANCISCO EUGENIO B",
+      "PQ. IDELFONZO VASQUEZ",
+      "PQ. JUANA DE AVILA",
+      "PQ. MANUEL DAGNINO",
+      "PQ. OLEGARIO VILLALOBOS",
+      "PQ. SAN ISIDRO",
+      "PQ. SANTA LUCIA",
+      "PQ. VENANCIO PULGAR",
+      "PQ.CARACCIOLO PARRA PEREZ"
+    ],
     "id": "307"
   },
   {
@@ -10480,6 +12132,13 @@
       "1014",
       "1016"
     ],
+    "dependencyNames": [
+      "PQ. ALTAGRACIA",
+      "PQ. ANA MARIA CAMPOS",
+      "PQ. FARIA",
+      "PQ. SAN ANTONIO",
+      "PQ. SAN JOSE"
+    ],
     "id": "308"
   },
   {
@@ -10513,6 +12172,11 @@
       "1021",
       "1018",
       "1020"
+    ],
+    "dependencyNames": [
+      "PQ. ALTA GUAJIRA",
+      "PQ. GUAJIRA",
+      "PQ. SINAMAICA"
     ],
     "id": "309"
   },
@@ -10548,6 +12212,12 @@
       "1025",
       "1022",
       "1023"
+    ],
+    "dependencyNames": [
+      "PQ. LIBERTAD",
+      "PQ. RIO NEGRO",
+      "PQ. SAN JOSE DE PERIJA",
+      "PQ.BARTOLOME DE LAS CASAS"
     ],
     "id": "310"
   },
@@ -10586,6 +12256,14 @@
       "1028",
       "1029"
     ],
+    "dependencyNames": [
+      "PQ. BOBURES",
+      "PQ. EL BATEY",
+      "PQ. GIBRALTAR",
+      "PQ. HERAS",
+      "PQ. M.ARTURO CELESTINO A",
+      "PQ. ROMULO GALLEGOS"
+    ],
     "id": "311"
   },
   {
@@ -10620,6 +12298,12 @@
       "1036",
       "1034",
       "1033"
+    ],
+    "dependencyNames": [
+      "PQ. CHIQUINQUIRA",
+      "PQ. CONCEPCION",
+      "PQ. EL CARMELO",
+      "PQ. POTRERITOS"
     ],
     "id": "312"
   },
@@ -10658,6 +12342,14 @@
       "1038",
       "1039"
     ],
+    "dependencyNames": [
+      "PQ. CAMPO LARA",
+      "PQ. EL DANTO",
+      "PQ. ELEAZAR LOPEZ C",
+      "PQ. LIBERTAD",
+      "PQ. PARAUTE",
+      "PQ. VENEZUELA"
+    ],
     "id": "313"
   },
   {
@@ -10691,6 +12383,10 @@
       "1044",
       "1043"
     ],
+    "dependencyNames": [
+      "PQ. ENCONTRADOS",
+      "PQ. UDON PEREZ"
+    ],
     "id": "314"
   },
   {
@@ -10723,6 +12419,10 @@
     "dependency": [
       "1047",
       "1046"
+    ],
+    "dependencyNames": [
+      "PQ. EL ROSARIO",
+      "PQ. SIXTO ZAMBRANO"
     ],
     "id": "315"
   },
@@ -10764,6 +12464,17 @@
       "1055",
       "1054"
     ],
+    "dependencyNames": [
+      "PQ. AMBROSIO",
+      "PQ. ARISTIDES CALVANI",
+      "PQ. CARMEN HERRERA",
+      "PQ. GERMAN RIOS LINARES",
+      "PQ. JORGE HERNANDEZ",
+      "PQ. LA ROSA",
+      "PQ. PUNTA GORDA",
+      "PQ. ROMULO BETANCOURT",
+      "PQ. SAN BENITO"
+    ],
     "id": "316"
   },
   {
@@ -10797,6 +12508,11 @@
       "1058",
       "1059",
       "1057"
+    ],
+    "dependencyNames": [
+      "PQ. LA VICTORIA",
+      "PQ. RAFAEL URDANETA",
+      "PQ. RAUL CUENCA"
     ],
     "id": "317"
   },
@@ -10833,14 +12549,21 @@
       "1063",
       "1062"
     ],
+    "dependencyNames": [
+      "PQ. JOSE RAMON YEPEZ",
+      "PQ. LA CONCEPCION",
+      "PQ. MARIANO PARRA LEON",
+      "PQ. SAN JOSE"
+    ],
     "id": "318"
   },
   {
     "name": "",
     "totals": "",
-    "percentage": 0,
+    "percentage": 100,
     "results": [],
     "dependency": [],
+    "dependencyNames": [],
     "id": "319"
   },
   {
@@ -10879,6 +12602,15 @@
       "1066",
       "1068"
     ],
+    "dependencyNames": [
+      "PQ. DOMITILA FLORES",
+      "PQ. EL BAJO",
+      "PQ. FRANCISCO OCHOA",
+      "PQ. JOSE DOMINGO RUS",
+      "PQ. LOS CORTIJOS",
+      "PQ. MARCIAL HERNANDEZ",
+      "PQ. SAN FRANCISCO"
+    ],
     "id": "320"
   },
   {
@@ -10911,6 +12643,10 @@
     "dependency": [
       "1073",
       "1074"
+    ],
+    "dependencyNames": [
+      "PQ. BARI",
+      "PQ. JESUS M SEMPRUN"
     ],
     "id": "321"
   },
@@ -10947,6 +12683,12 @@
       "1077",
       "1075"
     ],
+    "dependencyNames": [
+      "PQ. AGUSTIN CODAZZI",
+      "PQ. CARLOS QUEVEDO",
+      "PQ. FRANCISCO J PULGAR",
+      "PQ. SIMON RODRIGUEZ"
+    ],
     "id": "322"
   },
   {
@@ -10980,6 +12722,11 @@
       "1080",
       "1079",
       "1081"
+    ],
+    "dependencyNames": [
+      "PQ. MANUEL MANRIQUE",
+      "PQ. RAFAEL MARIA BARALT",
+      "PQ. RAFAEL URDANETA"
     ],
     "id": "323"
   },
@@ -11015,6 +12762,12 @@
       "1083",
       "1084",
       "1085"
+    ],
+    "dependencyNames": [
+      "PQ. FERNANDO GIRON TOVAR",
+      "PQ. LUIS ALBERTO GOMEZ",
+      "PQ. PARHUEÑA",
+      "PQ. PLATANILLAL"
     ],
     "id": "324"
   }
