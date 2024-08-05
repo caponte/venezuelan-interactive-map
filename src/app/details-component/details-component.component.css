@@ -35,7 +35,7 @@
   color: #1d2150;
 }
 
-.details-dialog .breadcrumbs-wrapper .breadcrumbs span{
+.details-dialog .breadcrumbs-wrapper .breadcrumbs span {
   margin-left: 8px;
   font-family: "Nunito";
   font-style: normal;
@@ -48,16 +48,23 @@
   position: relative;
 }
 
-.details-dialog .breadcrumbs-wrapper .breadcrumbs span:not(:first-child)::before {
-  content: ' ';
+.details-dialog
+  .breadcrumbs-wrapper
+  .breadcrumbs
+  span:not(:first-child)::before {
+  content: " ";
   display: inline-flex;
   width: 8px;
   height: 15px;
-  background-image: url('/assets/images/chevron-right.svg');
+  background-image: url("/assets/images/chevron-right.svg");
   margin-right: 8px;
   position: absolute;
   top: 1.5px;
   left: -12px;
+}
+
+.details-dialog .breadcrumbs-wrapper .breadcrumbs span:not(:first-child) {
+  margin-left: 16px;
 }
 
 .details-dialog .breadcrumbs-wrapper .breadcrumbs span:last-child {
@@ -150,7 +157,8 @@
   margin-top: 32px;
 }
 
-.dependency-wrapper .dependency-title {
+.dependency-wrapper .dependency-title,
+h3 {
   font-family: "Nunito";
   font-style: normal;
   font-weight: 700;
@@ -241,6 +249,28 @@
   font-weight: 800;
   color: white;
   background: #1d2150;
+}
+
+.doc-wrapper img {
+  border-radius: 10px;
+  max-width: 100%;
+}
+.doc-wrapper .header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.doc-wrapper a {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  color: #005da9;
+  text-decoration: none;
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
 }
 
 @media (max-width: 575.98px) {
