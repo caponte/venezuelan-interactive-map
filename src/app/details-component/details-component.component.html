@@ -4,18 +4,18 @@
             <img src="assets/images/chevron-left.svg" alt="">
         </div>
         <div class="breadcrumbs">
-            <span class="active">{{ data.stateResults.name }}</span> 
+            <span *ngFor="let breadcrumb of this.breadcrumbs;">{{breadcrumb}}</span>
         </div>
     </div>
     <div class="header" mat-dialog-title>
-        <h2>{{ data.stateResults.name }}</h2>
+        <h2>{{ this.paths[state].mainResults.name }}</h2>
         <div class="docs-totals">
             <div class="docs-totals--label">Actas digitalizadas:</div>
-            <div class="docs-totals--numbers">{{data.stateResults.totals | number: '1.0-0' }} ({{data.stateResults.percentage}}%)</div>
+            <div class="docs-totals--numbers">{{this.paths[state].mainResults.totals | number: '1.0-0' }} ({{this.paths[state].mainResults.percentage}}%)</div>
         </div>
     </div>
     <div mat-dialog-content class="main-results">
-        <div *ngFor="let result of data.stateResults.results">
+        <div *ngFor="let result of this.paths[state].mainResults.results">
         <div class="candidate-wrapper">
             <div class="candidate-info">
                 <img [src]="getAvatar(result.avatar)" alt="">
@@ -29,13 +29,13 @@
         </div>
         <div class="dependency-wrapper">
             <h3 class="dependency-title">Municipios</h3>
-            <div *ngFor="let dependency of data.dependencyResults">
+            <div *ngFor="let dependency of this.paths[state].dependencyResults">
                 <div class="dependency-data">
                     <div class="header">
                         <h2>{{ dependency.name }}</h2>
                         <div class="docs-totals">
                             <div class="docs-totals--label">Actas digitalizadas:</div>
-                            <div class="docs-totals--numbers">{{data.stateResults.totals | number: '1.0-0' }} ({{data.stateResults.percentage}}%)</div>
+                            <div class="docs-totals--numbers">{{this.paths[state].mainResults.totals | number: '1.0-0' }} ({{this.paths[state].mainResults.percentage}}%)</div>
                         </div>
                     </div>
                     <div class="dependency-results">
@@ -49,7 +49,7 @@
                             </div>
                         </div>
                         <div class="btn-wrapper">
-                            <button>Ver Detalles</button>
+                            <button (click)="setCurrentDetails(dependency.id)">Ver Detalles</button>
                         </div>
                     </div>
                 </div> 
