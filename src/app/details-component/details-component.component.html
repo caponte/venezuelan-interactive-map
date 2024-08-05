@@ -27,7 +27,7 @@
             </div>
         </div>
         </div>
-        <div class="dependency-wrapper">
+        <div class="dependency-wrapper" *ngIf="this.state != 4">
             <h3 class="dependency-title">{{this.dependencyTitle[state]}}</h3>
             <div *ngFor="let dependency of this.paths[state].dependencyResults">
                 <div class="dependency-data">
@@ -35,7 +35,7 @@
                         <h2>{{ dependency.name }}</h2>
                         <div class="docs-totals">
                             <div class="docs-totals--label">Actas digitalizadas:</div>
-                            <div class="docs-totals--numbers">{{this.paths[state].mainResults.totals | number: '1.0-0' }} ({{this.paths[state].mainResults.percentage}}%)</div>
+                            <div class="docs-totals--numbers">{{dependency.totals | number: '1.0-0' }} ({{dependency.percentage}}%)</div>
                         </div>
                     </div>
                     <div class="dependency-results">
@@ -54,6 +54,15 @@
                     </div>
                 </div> 
             </div>
+        </div>
+        <div class="doc-wrapper" *ngIf="this.state == 4">
+            <div class="header">
+                <h3>Actas de escrutineo</h3>
+                <a href="#" [download]="this.acta" class="download-btn">
+                    DESCARGAR <img src="assets/images/download.svg" alt="">
+                </a>
+            </div>
+            <img [src]="this.acta" alt="">
         </div>
     </div>
 </div>

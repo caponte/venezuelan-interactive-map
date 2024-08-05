@@ -17,6 +17,7 @@ export class DetailsComponent implements OnInit {
   state: number = 0;
   breadcrumbs: string[] = [];
   dependencyTitle = ['Municipios','Parroquias','Centros','Mesas'];
+  acta: string = '';
   constructor(
     private resultsService : ResultsService,
     public dialogRef: MatDialogRef<DetailsComponent>, 
@@ -25,9 +26,7 @@ export class DetailsComponent implements OnInit {
   ngOnInit(): void {
     if (this.data) {
       this.paths.push(this.data);
-      console.log(this.paths);
       this.breadcrumbs = this.updateBreadcrumbs();
-      console.log(this.breadcrumbs)
     }
   }
 
@@ -66,7 +65,6 @@ export class DetailsComponent implements OnInit {
     let mainResults = this.paths[this.state].dependencyResults.filter((x: { id: string; })=> x.id === id);
 
     currentResult.mainResults = mainResults[0];
-    
 
     switch (this.state) {
       case 0: 
@@ -74,15 +72,29 @@ export class DetailsComponent implements OnInit {
           .getParishResults()
           .subscribe((response: StatesResult[]) => {
             currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id)); 
+          });
+          break;
+          case 1:
+            this.resultsService
+            .getCenterResults()
+            .subscribe((response: StatesResult[]) => {
+              currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id)); 
+            });
+            break;
+            case 2:
+              this.resultsService
+              .getTableResults()
+              .subscribe((response: StatesResult[]) => {
+                currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id)); 
+              });
+              break;
+              case 3:
+                this.acta = currentResult.mainResults.dependency[0]
+              break;
+            }    
             this.paths.push(currentResult);
             this.state++;
             this.breadcrumbs = this.updateBreadcrumbs();
-          });
-      break;
-      case 1:
-        break;
-      case 2:
-        break;
-    }    
-  }
-}
+          }
+        }
+        

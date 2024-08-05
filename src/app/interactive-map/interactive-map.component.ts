@@ -30,7 +30,6 @@ export class InteractiveMapComponent implements OnInit{
       const dialogRef = this.dialog.open(StateModalComponent,{data: stateData[0], panelClass: 'state-modal-container'});
 
       dialogRef.afterClosed().subscribe(result => {
-        console.log('The dialog was closed');
       });
     });
   }
