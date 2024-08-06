@@ -80,7 +80,11 @@ export class DetailsComponent implements OnInit {
             .subscribe((response: StatesResult[]) => {
               currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id));
               let dr = [] as StatesResult[];
-              currentResult.dependencyResults.forEach( (result,i) => { result.name = this.paths[this.state].mainResults.dependencyNames[i]; dr.push(result) });
+              currentResult.dependencyResults.forEach( (result) => {  
+                let index = currentResult.mainResults.dependency.findIndex( x => x === result.id);
+                result.name = currentResult.mainResults.dependencyNames[index];
+                dr.push(result);
+             });
               currentResult.dependencyResults = dr;
             });
             break;
