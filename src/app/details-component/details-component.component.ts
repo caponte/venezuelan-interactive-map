@@ -17,7 +17,7 @@ export class DetailsComponent implements OnInit {
   state: number = 0;
   breadcrumbs: string[] = [];
   dependencyTitle = ['Municipios','Parroquias','Centros','Mesas'];
-  acta: string = '';
+  file: string = '';
   constructor(
     private resultsService : ResultsService,
     public dialogRef: MatDialogRef<DetailsComponent>, 
@@ -71,14 +71,17 @@ export class DetailsComponent implements OnInit {
         this.resultsService
           .getParishResults()
           .subscribe((response: StatesResult[]) => {
-            currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id)); 
+            currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id));
           });
           break;
           case 1:
             this.resultsService
             .getCenterResults()
             .subscribe((response: StatesResult[]) => {
-              currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id)); 
+              currentResult.dependencyResults = response.filter((x) => currentResult.mainResults.dependency.includes(x.id));
+              let dr = [] as StatesResult[];
+              currentResult.dependencyResults.forEach( (result,i) => { result.name = this.paths[this.state].mainResults.dependencyNames[i]; dr.push(result) });
+              currentResult.dependencyResults = dr;
             });
             break;
             case 2:
@@ -89,7 +92,7 @@ export class DetailsComponent implements OnInit {
               });
               break;
               case 3:
-                this.acta = currentResult.mainResults.dependency[0]
+                this.file = currentResult.mainResults.dependency[0]
               break;
             }    
             this.paths.push(currentResult);

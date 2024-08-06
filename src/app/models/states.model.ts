@@ -6,5 +6,6 @@ export interface StatesResult {
     totals: number,
     percentage: number,
     results: CandidateResult[],
-    dependency: string[]
+    dependency: string[],
+    dependencyNames: string[]
 }
