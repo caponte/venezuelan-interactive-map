@@ -20,12 +20,12 @@
               <div class="candidate-info">
                   <div class="canditate-name">
                     <span>{{result.candidate}}</span>
-                    <span>{{result.votes  | number: '1.0-0'}} votos</span>
+                    <span>{{result.votes  | number: '1.0-0'}} ({{result.percentage}}) votos</span>
                   </div>
                   <div class="progres-container">
                     <img [src]="getAvatar(result.avatar)" alt="">
                     <div class="progres-bar">
-                      <div class="fill" [style.width]="result.percentage" [style.backgroundColor]="result.color">{{result.percentage}}</div>
+                      <div class="fill" [style.width]="result.percentage" [style.backgroundColor]="result.color"><span *ngIf="validatePercentage(result.percentage)">{{result.percentage}}</span></div>
                     </div>
                   </div>
               </div>

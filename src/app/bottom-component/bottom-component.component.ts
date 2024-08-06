@@ -43,4 +43,8 @@ export class BottomComponent implements OnInit{
   getButtonLabel():string {
     return this.isExpanded ? 'Cerrar' : 'Expandir';
   }
+
+  validatePercentage(percentage: string):boolean {
+    return (parseInt(percentage.slice(0,-1))) > 10
+  }
 }
