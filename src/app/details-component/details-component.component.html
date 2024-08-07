@@ -1,10 +1,10 @@
 <div class="details-dialog">
     <div class="breadcrumbs-wrapper">
-        <div class="back" (click)="onClose()">
+        <div class="back" (click)="goBack()">
             <img src="assets/images/chevron-left.svg" alt="">
         </div>
-        <div class="breadcrumbs">
-            <span *ngFor="let breadcrumb of this.breadcrumbs;">{{breadcrumb}}</span>
+        <div #breadcrumbsRef class="breadcrumbs">
+            <span *ngFor="let breadcrumb of this.breadcrumbsArray; index as i" (click)="onBreadcrumbClick(i)">{{breadcrumb}}</span>
         </div>
     </div>
     <div class="header" mat-dialog-title>
